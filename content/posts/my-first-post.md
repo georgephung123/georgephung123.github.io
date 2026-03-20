@@ -9,7 +9,7 @@ categories = ["tech"]
 
 # Test123
 
-``` {C}
+``` c
 int main() {
     printf("Hello World!\n");
     return 0;
