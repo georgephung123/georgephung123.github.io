@@ -10,4 +10,4 @@ In my free time I like to:
 
 You can find my blog documenting my travels, my personal achievements, my projects, or anything interesting that happens!
 
-![burgy](66619518-6d63-4da0-b9ea-749543aee404.png)
+![burgy](/static/images/burgy.png)
