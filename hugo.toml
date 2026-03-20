@@ -3,6 +3,10 @@ locale = 'en-us'
 title = 'My Blog!'
 theme = "diary"
 [[menu.main]]
+url = "/about"
+name = "About"
+weight = 4
+[[menu.main]]
 url = "/categories"
 name = "Categories"
 weight = 3
