@@ -1,8 +1,8 @@
 ---
 date: 2026-03-20
 description: "My introduction"
-featured_image: "/images/airplane_night.jpg"
-images: ["/images/airplane_night.jpg"]
+featured_image: "/images/train_tracks.jpg"
+images: ["/images/train_tracks.jpg"]
 title: "About me"
 ---
 
