@@ -1,9 +1,9 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes"?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>Posts on My Blog!</title>
+    <title>Posts on George&#39;s Journal</title>
     <link>http://localhost:1313/posts/</link>
-    <description>Recent content in Posts on My Blog!</description>
+    <description>Recent content in Posts on George&#39;s Journal</description>
     <generator>Hugo</generator>
     <language>en-us</language>
     <lastBuildDate>Fri, 20 Mar 2026 10:51:58 -0400</lastBuildDate>

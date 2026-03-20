@@ -1,7 +1,11 @@
 baseURL = 'https://georgephung123.github.io/'
 locale = 'en-us'
-title = 'My Blog!'
+title = "George's Journal"
 theme = "diary"
+
+[params]
+subtitle = "George Phung's Blog"
+
 
 [[menu.main]]
 url = "/about"
