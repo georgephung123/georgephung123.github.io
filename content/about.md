@@ -1,5 +1,5 @@
 ---
-date: 2026-03-20
+date: 2026-03-20T13:31:08-04:00
 description: "My introduction"
 featured_image: "/images/train_tracks.jpg"
 images: ["/images/train_tracks.jpg"]

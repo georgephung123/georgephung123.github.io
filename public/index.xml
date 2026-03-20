@@ -8,8 +8,26 @@
     </description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
-    <lastBuildDate>Fri, 20 Mar 2026 10:51:58 -0400</lastBuildDate>
+    <lastBuildDate>Fri, 20 Mar 2026 13:31:08 -0400</lastBuildDate>
     <atom:link href="http://localhost:1313/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>About me</title>
+      <link>http://localhost:1313/about/</link>
+      <pubDate>Fri, 20 Mar 2026 13:31:08 -0400</pubDate>
+      <guid>http://localhost:1313/about/</guid>
+      <description>My Blog! http://localhost:1313/about/ - &lt;h2 id=&#34;about-me&#34;&gt;About me!&lt;/h2&gt;
+&lt;p&gt;Hii, my name is George Phung (he/they), I&amp;rsquo;m 20 years old, and I am studying Computational Modelling and Data Analytics (CMDA) at Virginia Tech! I&amp;rsquo;m currently doing research under Dr. Anne Brown at DataBridge where I researched various antimicrobial peptides (AMPs) and compared their effectiveness against methanogens produced by cows.&lt;/p&gt;
+&lt;p&gt;In my free time I like to:&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;Play chess - My favorite opening is the Marshall Gambit, rated ~1550 on chess.com&lt;/li&gt;
+&lt;li&gt;Run - My 5k PR is 31:55&lt;/li&gt;
+&lt;li&gt;Workout - I mainly do low-impact workouts&lt;/li&gt;
+&lt;li&gt;Speedrun Celeste - My any% PB is around 32 minutes&lt;/li&gt;
+&lt;/ul&gt;
+&lt;p&gt;You can find my blog documenting my travels, my personal achievements, my projects, or anything interesting that happens!&lt;/p&gt;
+&lt;p&gt;&lt;img src=&#34;http://localhost:1313/images/burgy.png&#34; alt=&#34;burgy&#34;&gt;&lt;/p&gt;
+ - http://localhost:1313/about/ - </description>
+    </item>
     <item>
       <title>My First Post</title>
       <link>http://localhost:1313/posts/my-first-post/</link>
