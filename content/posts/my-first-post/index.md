@@ -110,25 +110,114 @@ Some special symbols:
 - **O-O** = kingside castle
 - **O-O-O** = queenside castle
 
-If you don't understand it thats okay too as this will be more focused on the emotions rather than the actual game itsself.
+If you don't understand it thats okay too as this will be more focused on the emotions rather than the actual game itself.
+
+One more thing, I will be using the term touch-move, meaning that if you touch a certain piece, you *must* move that said piece.
 
 ## Round 1
 *I would have provided the pictures my mother have took during my games but I have not asked for my opponents consent, so unforunately there will be not many photos here*
 
-I was paired against Mahin Ganesan in the first round with the white pieces. He actually went to UVA and graduated a few years ago.
+I was paired against Mahin Ganesan (2241) in the first round with the white pieces. He actually went to UVA and graduated a few years ago.
 
 The game started off with:
 
-1. e4 e5 2. Nf3 Nc6 3. Bb5 a6 4. Ba4 Nf6 5. O-O Be7 6. Re1 b5 7. Bb3 
+1. e4 e5 2. Nf3 Nc6 3. Bb5 a6 4. Ba4 Nf6 5. O-O Be7 6. Re1 b5 7. Bb3 d6
 
 ![alt text](pos1.png)
 
 During the game, my opponent mixed up his lines as he wanted to play d5 to play the Marshall Gambit but hasn't castled yet. Since he touched his d-pawn already, he had to move it (touch-move rule), this is still a real line to play as black, but rather it being more tactical, it's now more of a slow, manuvering game.
 The main line Marshall Gambit follows: 7. ... O-O 8. c3 d5 9. exd5 Nxd5 10. Nxe5 Nxe5 11. Rxe5 c6 12. d4 Bd6 13. Re1 Qh4 
 
-d6 8. c3 Na5 9. h3 Nxb3 10. axb3 c5 11. d3 O-O 12. Nbd2 Qc7 13. Nf1 Re8 14. Ng3 a5 15. Kh1
+8. c3 Na5 9. h3 Nxb3 10. axb3 c5 11. d3 O-O 12. Nbd2 Qc7 13. Nf1 Re8 14. Ng3 a5 15. Kh1
 ![alt text](pos2.png)
- Bd7 16. Qc2 Ra7 17. Be3 Rb8 18. Kg1 Raa8 19. Ra2 a4 20. bxa4 bxa4 21. Rc1 Rb7 22. Nd2 d5 23. Bg5 Qc6 24. d4 cxd4 25. cxd4 Qe6 26. exd5 Nxd5 27. Be3 Nb4 *
 
-WIP :3
+During the game, I evaluated the position was me being able to do nothing--by moving my king back and forth-- but it's incorrect. If I just waited and did nothing, my opponent will eventually roll me down on the queen-side, hence why I should have played Nh4 to eventually get a knight on f5, as in the traditional Spanish lines the square I want is f5 and eventually get a king-side counterattack.
 
+
+15 ... Bd7 16. Qc2 Ra7 17. Be3 Rb8 18. Kg1 Raa8 
+![alt text](pos3.png)
+
+A few moves ago, my apponent moved his rook to a7, persumably to double up the rooks on the a-file, but I think he missed the move bishop to e3, pinning the c-pawn to the rook, meaning that if the c-pawn moves, the rook would be under attack he would lose it. Looking very annoyed, he moved his rook back to a1, and I couldn't help but smile.
+
+
+19. Ra2 a4 20. bxa4 bxa4 21. Rc1 Rb7 22. Nd2 d5 23. Bg5 Qc6 24. d4 
+![alt text](pos4.png)
+
+Oops, I blundered a pawn randomly...
+
+24. ... cxd4 25. cxd4 Qe6 
+![alt text](pos5.png)
+
+My opponent got spooked out here actually, because he thought after taking the pawn on d4 after trading the queens, he thought I had e5, but it does not work! He can counterattack my bishop on g5! After I take his knight, he does *not* take my bishop right away, instead he can play bishop to d6, effectively trapping my bishop.
+
+26. exd5 Nxd5 27. Be3
+![alt text](pos6.png)
+
+The final blunder of the game by me, the position was already difficult to play both practically and under time pressure, and my opponent plays the right move Nb4!, double attacking my rook and queen, effectively ending the game.
+
+We both analyzed the game after, and I actually found out that his favorite opening is the Marshall Gambit, also my favorite opening! A little bummed that I had a chance in the game, but again he was almost 700 rating points higher than I was.
+
+Results after round one:
+![alt text](results.png)
+
+There was actually draw on the first board with a 557 point discrepancy! A wonderful game by the underdog!
+
+## Round 2
+
+I was paired against Jay Bell (1400) with the black pieces.
+
+The game began as:
+
+1. e4 e5 2. Nf3 Nc6 3. d4 exd4 4. Nxd4 Bc5 5. Nxc6 Qf6 6. Qe2 bxc6 7. Nc3 d6 8. g3 Ne7 9. Bg2 Ba6
+![alt text](pos7.png)
+
+This move looks like that I'm giving away my a6 bishop for free, but if he takes it with his queen, I take his f2 pawn with my queen! It's a fork between his king and his light-squared bishop, meaning that I get my bishop back and his king becomes *significantly* weaker! My opponent did not take bait to his credit.
+
+10. Qf3 Bd4 11. Bd2 Rb8 12. Qxf6 Bxf6 13. b3 O-O 14. Rd1 Rfe8 15. f4 Bd4 16. Ne2 Bb6 17. Bc3
+![alt text](pos8.png)
+
+The computer engine evaluates this position was "-2.1", which basically means that this is "better" for black. The best move suggests going Nd5, threatening to go Ne3, forking the bishop and rook with both cannot be defended. If my opponent took the knight with the pawn, you lose both the knight and the bishop. If my opponent goes bishop back to d2, the line follows: 18. ... Nf6 19. Nc3 d5 20. e5 Ng4 Rc1 21. f6 - White will eventually lose the e5 pawn and will be a pawn down. 
+
+But I took the knight with the bishop on e2, plummeting the engine evaluation down to "+0.2", meaning that white is a teeny tiny bit better.
+
+
+17. ... Bxe2 18. Kxe2 d5 19. e5 Ng6 20. a3 
+
+![alt text](pos9.png)
+
+This is similar to the line I showed above, I played the move f3, effectively meaning that I am a pawn up.
+
+
+20. ... f6 21. Rhe1 fxe5 22. fxe5 Nxe5 23. Kd2 Ng6 24. Kc1 Rxe1 25. Rxe1 Rf8 26. Re2 d4 27. Bb2 c5
+![alt text](pos10.png)
+
+This is a really bad move by me, this effectively blocks in my dark-squared bishop without losing the pawn if my opponent played Bd5+. In the long term, my opponent will gradually bring his king to b5 and use his a-pawn to attack my trapped bishop.
+
+But thankfully, he misses that move.
+
+ 28. Be4 Re8 29. Kd2 Ne5 30. Bd5+ Kh8 31. b4 c4
+![alt text](pos11.png)
+
+Another mistake by me, the main idea of this mistake is that my knight is not actually defending the pawn I moved up to c4, as my rook would be under fire at e8! But you cannot take the c4 pawn right away yet, as I *can* take it with the knight because it's with check. So in this position, you simply move your king to d1 and I'll either simply lose the pawn or have my rook be overloaded with pressure, eventually losing the knight in a few moves.
+
+But my opponent plays... 32. Ba1
+
+![alt text](pos12.png)
+
+I think the most plausable explanation is that my opponent accidentally touched the bishop, as since it was touch-move, he had to move it. I think he got a little bit tilted and moved the bishop to a bad square, already accepting his defeat from that one little mistake. But his position was still fine if he moved the bishop to c1 and not to a1. I couldn't help but to feel bad for him.
+
+The bishop being on a1 effectively locks it out for the rest of the game, as there is no way for your dark-squared bishop to escape after I play the move c2.
+
+ 32. Ba1 Re7 33. Re4 c3+ 34. Kc1 Ng6 35. Rxe7 Nxe7 36. Be4 c5 37. b5 Kg8 38. Kd1 Kf7 39. Ke2 Ke6 40. Bg2 Ke5 41. Kd3 
+
+ ![alt text](pos13.png)
+
+ This was the final recorded position, I won this game easily by targetting the g and h pawns with my knight and bishop.
+
+ We didn't analyze too much after the game, which I understand because he basically lost a game to an accidential touch.
+
+ The results of round 2:
+
+ ![alt text](results2.png)
+
+I was happy that I managed to get a win, even though it was by a technicality.
