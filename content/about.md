@@ -28,4 +28,6 @@ Some of my favorite artists:
 
 You can find my blog documenting my travels, my personal achievements, my projects, or anything interesting that happens!
 
+If you would like to receive updates whenever I post, you can subscribe via my [RSS feed](/index.xml) — just put the link into any RSS reader like Thunderbird or RSS Feed Reader.
+
 ![burgy](/images/burgy.png)
