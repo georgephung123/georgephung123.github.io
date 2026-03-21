@@ -9,7 +9,7 @@ googleAnalytics = "G-ZWS5JM1KXW"
 
 [params]
 subtitle = "George Phung's Blog"
-
+favicon = "/favicon/favicon.ico"
 
 [[menu.main]]
 url = "/index.xml"
