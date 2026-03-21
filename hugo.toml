@@ -8,6 +8,10 @@ googleAnalytics = "G-ZWS5JM1KXW"
 [params]
 subtitle = "George Phung's Blog"
 
+[[menu.main]]
+url = "/index.xml"
+name = "RSS Feed"
+weight = 5
 
 [[menu.main]]
 url = "/about"
