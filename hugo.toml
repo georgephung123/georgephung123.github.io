@@ -3,6 +3,8 @@ locale = 'en-us'
 title = "George's Journal"
 theme = "diary"
 
+googleAnalytics = "G-ZWS5JM1KXW"
+
 [params]
 subtitle = "George Phung's Blog"
 

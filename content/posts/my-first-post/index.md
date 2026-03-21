@@ -110,6 +110,7 @@ Some special symbols:
 - **O-O** = kingside castle
 - **O-O-O** = queenside castle
 
+If you don't understand it thats okay too as this will be more focused on the emotions rather than the actual game itsself.
 
 ## Round 1
 *I would have provided the pictures my mother have took during my games but I have not asked for my opponents consent, so unforunately there will be not many photos here*
@@ -128,5 +129,6 @@ The main line Marshall Gambit follows: 7. ... O-O 8. c3 d5 9. exd5 Nxd5 10. Nxe5
 d6 8. c3 Na5 9. h3 Nxb3 10. axb3 c5 11. d3 O-O 12. Nbd2 Qc7 13. Nf1 Re8 14. Ng3 a5 15. Kh1
 ![alt text](pos2.png)
  Bd7 16. Qc2 Ra7 17. Be3 Rb8 18. Kg1 Raa8 19. Ra2 a4 20. bxa4 bxa4 21. Rc1 Rb7 22. Nd2 d5 23. Bg5 Qc6 24. d4 cxd4 25. cxd4 Qe6 26. exd5 Nxd5 27. Be3 Nb4 *
+
 WIP :3
 
