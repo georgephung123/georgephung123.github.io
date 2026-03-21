@@ -219,3 +219,37 @@ The bishop being on a1 effectively locks it out for the rest of the game, as the
  ![alt text](results2.png)
 
 I was happy that I managed to get a win, even though it was by a technicality.
+
+A good amount of players had already left the venue to grab lunch when my game ended. I elected to check out the food back in the bar as that piqued my curiosity. The food on the menu had more or less generic bar food; they had wings, pizza, etc. I ordered the pepperoni flatbread pizza (no image sorry) and it was good! There was actually a few chess boards set up back at the bar section, so I played a few casual bitz games with some of the members!
+
+## Round 3
+
+I was paired against Dan Kootz (1796) with the black pieces in the third round. He actually won the 2025-26 Virginia Scholastic & College Championships in the amateur section!
+
+1. e4 e5 2. Nf3 Nc6 3. d4 exd4 4. Nxd4 Bc5 5. Be3 Qf6 6. c3 Nge7 7. Bc4 O-O 8. O-O d6 9. Nxc6 Nxc6 10. Bxc5 dxc5 11. Na3
+
+![alt text](pos14.png)
+
+I thought knight to a3 was a weird move when he played it, usually the knights go more towards the center of the board. He was probably going for ideas such as jumping to b5 and target my c7 pawn. Hence why I played a6 on the next move.
+
+
+ 11. ... a6 12. f4 Be6 13. e5 Qe7 14. Bd3 Rad8 15. Qc2 h6 16. Rf3 Bd5 17. Rg3 b5 18. Qe2 
+ 
+![alt text](pos15.png) 
+ 
+ White has a pretty strong attack on my king-side, his rook is directly aimed at my king, his queen is ready to go to h5, and his bishop targets the light-squares, making defense more difficult. I had ignored the attack, going at the queen-side instead. This was the last possible moment where I could addressed white's attack without being completely losing. The move f6 opens up the center, allowing my pieces to defeend my king on time.
+
+ Howeever, I did not play f6 and from that on, I was in a losing position.
+
+11. ... Rfe8 19. Qh5 Qe6 20. Bf5
+ 
+ ![alt text](pos16.png)
+ 
+It became clear that I was going to lose this game when he played that move, as my queen cannot defend h6 any longer. At that point, I was really annoyed with myself, looking at the rainy weather with disgust.
+
+
+ 20. ... g6 21. Bxe6 Rxe6 22. Qxh6 b4 23. Rh3
+
+ ![alt text](pos17.png)
+
+I resigned in this position, as my opponent had a checkmate in two. I was really bummed over this loss, as I lost extremely quickly and never had a chance.
