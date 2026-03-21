@@ -12,7 +12,7 @@ Hii, my name is George Phung (he/him), I'm 20 years old, and I am studying Compu
 
 ## Hobbies
 
-In my free time I like to:
+In my free time, I like to:
 - Play chess - My favorite opening is the Marshall Gambit, rated ~1550 on chess.com
 - Run - My 5k PR is 31:55
 - Workout - I mainly do low-impact workouts
@@ -21,9 +21,9 @@ In my free time I like to:
 ## Music
 
 Some of my favorite artists:
-- Ed Sheeran - favorite song: Perfect
-- Chevy - favorite song: Gingerbread Lover
-- Ivoris - favorite song: raincoat
+- Ed Sheeran - Favorite song: Perfect
+- Chevy - Favorite song: Gingerbread Lover
+- Ivoris - Favorite song: raincoat
 
 
 You can find my blog documenting my travels, my personal achievements, my projects, or anything interesting that happens!
