@@ -18,12 +18,10 @@ The train was scheduled to depart at 9:55 AM in Roanoke, so it wasn't too fun co
 
 I left my apartment at around seven to catch my first bus, which took me from my aparment to Virginia Tech's main transfer bays, which was a 10 minute commute. I was still feeling incredibly sleepy as I usually never wake up this early (my classes usaully start past 11AM). I then boarded the second bus, which was called the "Smart Way Bus", a rather unremarkable name.
 
-{{< insertFigure
-img="smart-way-bus.jpg" 
-caption="*A view of the bus, notice the \"Smart Way Bus\" decal on the side.*" 
-command="Resize" 
-align="Left"
-options="500x q90" >}}
+
+![](bus.jpg)
+*A view of the bus, notice the \"Smart Way Bus\" decal on the side.* 
+
 
 The bus left promptly at 7:45AM; it was a 90 minute trip to get to the train station in Roanoke. The early morning sun had a distinct "warm-orangey" feel, it felt like a "filter" applied to everything it touched.
 

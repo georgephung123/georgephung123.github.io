@@ -1,9 +1,11 @@
+# -- config
 baseURL = 'https://georgephung123.github.io/'
 locale = 'en-us'
 title = "George's Journal"
 theme = "diary"
-
+enableGitInfo = true
 googleAnalytics = "G-ZWS5JM1KXW"
+# -----
 
 [params]
 subtitle = "George Phung's Blog"
