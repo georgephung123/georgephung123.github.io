@@ -7,7 +7,7 @@ googleAnalytics = "G-ZWS5JM1KXW"
 
 [params]
 subtitle = "George Phung's Blog"
-
+walineServer = "georgephung123-github-io.vercel.app"
 [[menu.main]]
 url = "/index.xml"
 name = "RSS Feed"

@@ -76,6 +76,12 @@
 
 
 
+<script src="https://unpkg.com/@waline/client@v2/dist/waline.js"></script>
+  <link
+    rel="stylesheet"
+    href="https://unpkg.com/@waline/client@v2/dist/waline.css"
+  />
+
 
 
 
@@ -494,6 +500,17 @@ Bd7 16. Qc2 Ra7 17. Be3 Rb8 18. Kg1 Raa8 19. Ra2 a4 20. bxa4 bxa4 21. Rc1 Rb7 22
 
 
 
+
+<div id="waline"></div>
+<script>
+    Waline.init({
+        el: '#waline',
+        
+        dark: "body.night",
+        serverURL: "georgephung123-github-io.vercel.app" ,
+    });
+    
+    </script>
 
 
 
