@@ -358,6 +358,6 @@ Final standings:
 
 There will always be those types of thoughts of "what if I didnt blunder and could have won" as I had better positions in two of my games but I didn't win those two games. We often dwell on the mistakes we make rather than look at where we did well. Even though I lost most of my games, I played well in those games. Two of my opponents praised my skills, stating that I played much better than my rating (1550).
 
-I am really grateful for this new experience provided by the RVA Pieces chess club! I got to play against   which certainly helped with my skills, and I will be be coming back to play another tournament!
+I really did enjoy playing in this tournament! It was nice being able to play against strong players while learning a thing or two. I'll be back for the next one!
 
-What a way to spend Valentine's weekend without the Valentines.
+What a way to spend Valentine's weekend without the Valentines!
