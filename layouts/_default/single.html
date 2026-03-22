@@ -81,23 +81,23 @@
             
             <nav class="post-pagination">
 
-                {{if .Next}}
-                <a class="newer-posts" href="{{.Next.RelPermalink}}">
-			{{ i18n "next_link" }}<br>{{.Next.Title}}
+                {{if .Prev}}
+                <a class="newer-posts" href="{{.Prev.RelPermalink}}">
+                    {{ i18n "prev_link" }}<br>{{.Prev.Title}}
                 </a>
                 {{else}}
                 <a class="newer-posts">
-			{{ i18n "next_link" }}<br>{{ i18n "no_newer_posts"}}
+                    {{ i18n "prev_link" }}<br>{{ i18n "no_older_posts" }}
                 </a>
                 {{end}}
-                
-                {{if .Prev}}
-                <a class="older-posts" href="{{.Prev.RelPermalink}}">
-			{{ i18n "prev_link" }}<br>{{.Prev.Title}}
+
+                {{if .Next}}
+                <a class="older-posts" href="{{.Next.RelPermalink}}">
+                    {{ i18n "next_link" }}<br>{{.Next.Title}}
                 </a>
                 {{else}}
                 <a class="older-posts">
-			{{ i18n "prev_link" }}<br>{{ i18n "no_older_posts" }}
+                    {{ i18n "next_link" }}<br>{{ i18n "no_newer_posts"}}
                 </a>
                 {{end}}
             </nav>
