@@ -6,26 +6,27 @@ theme = "diary"
 enableGitInfo = true
 googleAnalytics = "G-ZWS5JM1KXW"
 # -----
-enableGiscus = true
-[params.giscus]
-    data_repo="georgephung123/georgephung123.github.io"
-    data_repo_id="R_kgDORrwRCA"
-    data_category="Announcements"
-    data_category_id="DIC_kwDORrwRCM4C5GrH"
-    data_mapping="pathname"
-    data_strict="0"
-    data_reactions-enabled="1"
-    data_emit_metadata="0"
-    data_input_position="bottom"
-    data_theme="preferred_color_scheme"
-    data_lang="en"
-    crossorigin="anonymous"
-
-# ---
-
 [params]
 subtitle = "George Phung's Blog"
 favicon = "/favicon/favicon.ico"
+enableGiscus = true
+
+    [params.giscus]
+        data_repo="georgephung123/georgephung123.github.io"
+        data_repo_id="R_kgDORrwRCA"
+        data_category="Announcements"
+        data_category_id="DIC_kwDORrwRCM4C5GrH"
+        data_mapping="pathname"
+        data_strict="0"
+        data_reactions-enabled="1"
+        data_emit_metadata="0"
+        data_input_position="bottom"
+        data_theme="preferred_color_scheme"
+        data_lang="en"
+        crossorigin="anonymous"
+
+# ---
+
 
 [[menu.main]]
 url = "/index.xml"
