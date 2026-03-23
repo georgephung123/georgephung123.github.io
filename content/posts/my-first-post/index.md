@@ -48,7 +48,7 @@ Later in the day, we both went to Trader Joe's to pick out some flowers for my m
 
 # The tournament
 
-The tournament was scheduled to start at 10:15AM the following day at the Black Iris Social Club in downtown Richmond. The venue interior was interesting, it featured what looked like a art gallery when you first enter, but there's a whole bar connected if you go through the back door! The weather felt almost perfect, it was a light drizzle when I made to the venue at around ten.
+The tournament was scheduled to start at 10:15AM the following day at the Black Iris Social Club in downtown Richmond. The venue interior was interesting, it featured what looked like a art gallery when you first enter, but there's a whole bar connected if you go through the back door! The weather felt almost perfect, it was a light drizzle when I made to the venue at around ten. I actually played some "warm-up" games to train my mind.
 
 ![](venue.png)
 *The venue shown, during the latter moments of the second round. The tables on the left were the open section, and the tables on the right were the U1300 section.*
@@ -306,7 +306,7 @@ Round four results:
 
 ## Round 5
 
-I felt better going into the final round, and my opponent was Parth Shetty (1539) with the black pieces. He was an extremely young opponent; there is actually a "meme" in the chess community where it's not the adults who are scary, it's the young children because they have an unbelievable amount of talent.
+I felt better going into the final round, and my opponent was Parth Shetty (1539) with the black pieces. He was an extremely young opponent; there is actually a "joke" in the chess community where it's not the adults who are scary, it's the young children because they have an unbelievable amount of talent.
 
 
 1. d4 Nf6 2. c4 e6 3. Nf3 d5 4. g3 c5 5. cxd5 exd5 6. Bg2 Nc6 7. Bg5 h6 8. Bxf6 Qxf6 9. e3 Be6 10. O-O Be7 11. dxc5 
