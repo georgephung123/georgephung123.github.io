@@ -1,0 +1,648 @@
+<!DOCTYPE html>
+<html lang="en"><head><script src="/livereload.js?mindelay=10&amp;v=2&amp;port=1313&amp;path=livereload" data-no-instant defer></script>
+<title>Attemping to Predict the Value of Bitcoin</title>
+
+
+
+
+<meta charset="utf-8">
+<meta name="X-UA-Compatible" content="IE=edge">
+<meta name="google-site-verification" content="G-ZWS5JM1KXW">
+<meta content="width=device-width, initial-scale=1.0, maximum-scale=5, user-scalable=5" name="viewport">
+<meta content="telephone=no" name="format-detection">
+<meta name="description" content="I attempt to use Machine Learning to predict the value of Bitcoin">
+<meta name="renderer" content="webkit">
+<meta name="theme-color" content="#ffffff">
+
+
+
+
+
+
+
+
+
+
+
+      <script async src="https://www.googletagmanager.com/gtag/js?id=G-ZWS5JM1KXW"></script>
+      <script>
+        var doNotTrack = false;
+        if ( true ) {
+          var dnt = (navigator.doNotTrack || window.doNotTrack || navigator.msDoNotTrack);
+          var doNotTrack = (dnt == "1" || dnt == "yes");
+        }
+        if (!doNotTrack) {
+          window.dataLayer = window.dataLayer || [];
+          function gtag(){dataLayer.push(arguments);}
+          gtag('js', new Date());
+          gtag('config', 'G-ZWS5JM1KXW');
+        }
+      </script>
+
+
+
+
+
+
+  
+
+
+
+
+<link rel="icon" href="http://localhost:1313/favicon/favicon.ico">
+
+
+
+      <script src="/js/toc.js"></script>
+    
+    <link type="text/css" rel="stylesheet" href="/vendor/css/bootstrap.min.css">
+
+<link rel="stylesheet" href="/scss/dark-mode.min.0893d55ef96127c3e7f2d730fa36c80cc22cbd5799565465f9cacb964de420ac.css" integrity="sha256-CJPVXvlhJ8Pn8tcw&#43;jbIDMIsvVeZVlRl&#43;crLlk3kIKw=" media="screen">
+
+
+<link rel="stylesheet"
+          href="https://fonts.googleapis.com/css?family=Material+Icons">
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+</head>
+<body>
+    	<div id="app"><div class="single-column-drawer-container" id="drawer"
+     v-bind:class="{ 'single-column-drawer-container-active': isDrawerOpen }">
+    <div class="drawer-content">
+        <div class="drawer-menu">
+            
+            
+            
+                
+                
+                
+                    
+                
+                
+                
+                <a class="a-block drawer-menu-item active" href="/posts">
+                    Archive
+                </a>
+                
+            
+                
+                
+                
+                
+                
+                <a class="a-block drawer-menu-item false" href="/tags">
+                    Tags
+                </a>
+                
+            
+                
+                
+                
+                
+                
+                <a class="a-block drawer-menu-item false" href="/categories">
+                    Categories
+                </a>
+                
+            
+                
+                
+                
+                
+                
+                <a class="a-block drawer-menu-item false" href="/about">
+                    About
+                </a>
+                
+            
+                
+                
+                
+                
+                
+                <a class="a-block drawer-menu-item false" href="/index.xml">
+                    RSS Feed
+                </a>
+                
+            
+            
+            <div class="toc">
+
+
+	<div class="toc-content">
+	
+		
+		
+		
+		<center>- CATALOG -</center>
+		
+		
+		<ul>
+			
+				
+				
+					
+						
+						
+						
+						
+						
+							<li>
+								<a href="#preface" class="nav-preface">
+									Preface
+								</a>
+							</li>
+						
+						
+					
+				
+			
+				
+				
+					
+						
+						
+						
+						
+						
+							<li>
+								<a href="#the-actual-process" class="nav-the-actual-process">
+									The actual process!
+								</a>
+							</li>
+						
+						
+					
+				
+			
+				
+				
+					
+						
+						
+						
+						
+							
+								
+									<ul>
+								
+							
+						
+						
+							<li>
+								<a href="#setting-up-the-data" class="nav-setting-up-the-data">
+									Setting up the data
+								</a>
+							</li>
+						
+						
+					
+				
+			
+				
+				
+					
+						
+						
+						
+						
+						
+							<li>
+								<a href="#figuring-out-what-model-to-use-the-hard-part" class="nav-figuring-out-what-model-to-use-the-hard-part">
+									Figuring out what model to use (the hard part)
+								</a>
+							</li>
+						
+						
+					
+				
+			
+		</ul>
+	</div>
+
+</div>
+            
+        </div>
+    </div>
+</div>
+<transition name="fade">
+    <div id="drawer-mask" v-bind:class="{ 'single-column-drawer-mask': mounted }" v-if="isDrawerOpen" v-on:click="toggleDrawer"></div>
+</transition>
+<nav id="navBar" class="navbar sticky-top navbar-light single-column-nav-container">
+    <div id="navBackground" class="nav-background"></div>
+    <div class="container container-narrow nav-content">
+        <button id="nav_dropdown_btn" class="nav-dropdown-toggle" type="button" v-on:click="toggleDrawer">
+            <i class="material-icons">
+                menu
+            </i>
+        </button>
+        <a id="navTitle" class="navbar-brand" href="http://localhost:1313/">
+            George&#39;s Journal
+        </a>
+        
+        <button type="button" class="nav-darkmode-toggle" id="darkModeToggleButton2">
+            <i class="material-icons" id="darkModeToggleIcon2">
+                dark_mode
+            </i>
+        </button>
+        
+    </div>
+</nav>
+<div class="single-column-header-container" id="pageHead"
+     v-bind:style="{ transform: 'translateZ(0px) translateY('+.3*scrollY+'px)', opacity: 1-navOpacity }">
+    <a href="http://localhost:1313/">
+        <div class="single-column-header-title">George&#39;s Journal</div>
+        
+        <div class="single-column-header-subtitle">George Phung&#39;s Blog</div>
+        
+
+    </a>
+</div>
+
+            <div id="content">
+                <div id="streamContainer" class="stream-container">
+
+    <div class="post-list-container post-list-container-shadow">
+        <div class="post">
+            
+            
+            
+
+            <div class="post-head-wrapper-text-only"
+                
+            >
+                <div class="post-title">
+                    Attemping to Predict the Value of Bitcoin
+                    
+                    <div class="post-subtitle">
+                        I attempt to use Machine Learning to predict the value of Bitcoin
+                    </div>
+                    
+                    <div class="post-meta">
+                        
+                        <time itemprop="datePublished">
+                            2026-03-23 14:29
+                        </time>
+                        
+
+                        
+                            <i class="material-icons" style="">folder</i>
+                            
+                                <a href="/categories/projects">Projects</a>
+                                &nbsp;
+                            
+                        
+
+                        
+                            <i class="material-icons" style="">label</i>
+                            
+                                <a href="/tags/machine-learning">Machine Learning</a>
+                                &nbsp;
+                            
+                                <a href="/tags/bitcoin">Bitcoin</a>
+                                &nbsp;
+                            
+                        
+                        
+                        
+                    </div>
+                </div>
+            </div>
+            
+            <div class="post-body-wrapper">
+                
+                <div class="post-body" v-pre>
+                
+                    <h1 id="preface">Preface</h1>
+<h1 id="the-actual-process">The actual process!</h1>
+<h2 id="setting-up-the-data">Setting up the data</h2>
+<p>I found this website called &ldquo;CoinDesk&rdquo;, which was a price data tracker for many cryptocurrencies, such as Bitcoin! This website actually has an &ldquo;API call preview&rdquo; <em>with parameters</em> on the documentation, so it was much easier to implement the output in my program!</p>
+<p><img src="website.png" alt="">
+<em>What the API call preview looks like!</em></p>
+<p>Here&rsquo;s what I basically did:</p>
+<div class="highlight"><pre tabindex="0" style="color:#f8f8f2;background-color:#272822;-moz-tab-size:4;-o-tab-size:4;tab-size:4;-webkit-text-size-adjust:none;"><code class="language-Python" data-lang="Python"><span style="display:flex;"><span>url <span style="color:#f92672">=</span> <span style="color:#e6db74">&#34;https://min-api.cryptocompare.com/data/v2/histoday?fsym=BTC&amp;tsym=USD&amp;aggregate=1&amp;limit=1&amp;allData=true&amp;api_key=*******************************&#34;</span>
+</span></span><span style="display:flex;"><span>
+</span></span><span style="display:flex;"><span>page <span style="color:#f92672">=</span> requests<span style="color:#f92672">.</span>get(url)
+</span></span><span style="display:flex;"><span>data <span style="color:#f92672">=</span> page<span style="color:#f92672">.</span>json()[<span style="color:#e6db74">&#39;Data&#39;</span>][<span style="color:#e6db74">&#39;Data&#39;</span>]
+</span></span><span style="display:flex;"><span>df <span style="color:#f92672">=</span> pd<span style="color:#f92672">.</span>DataFrame(data)
+</span></span><span style="display:flex;"><span>
+</span></span><span style="display:flex;"><span>df[<span style="color:#e6db74">&#34;time&#34;</span>] <span style="color:#f92672">=</span> [datetime<span style="color:#f92672">.</span>datetime<span style="color:#f92672">.</span>fromtimestamp(time) <span style="color:#66d9ef">for</span> time <span style="color:#f92672">in</span> df[<span style="color:#e6db74">&#34;time&#34;</span>]]
+</span></span><span style="display:flex;"><span>df
+</span></span></code></pre></div><p><em>The API key is censored for safety.</em></p>
+<p>I took the URL and extracted the historical data of the daily value of Bitcoin from the JSON! The time was in UNIX Epoch, so I had to convert it into more human-readable time.</p>
+<p>The parameters (from the URL):</p>
+<ul>
+<li>fsym: the cryptocurrency you are interested in</li>
+<li>tsym: the currency you want to convert the crptocurrency into</li>
+<li>aggregate: the number of days you want to aggregate the data into one data point</li>
+<li>limit: the number of data points you want to return</li>
+<li>allData: Returns all data</li>
+</ul>
+<p>So far, this isn&rsquo;t too bad. I basically called the data from an API and converted it into a pandas DataFrame!</p>
+<p>Making a quick data visualization:</p>
+<div class="highlight"><pre tabindex="0" style="color:#f8f8f2;background-color:#272822;-moz-tab-size:4;-o-tab-size:4;tab-size:4;-webkit-text-size-adjust:none;"><code class="language-Py" data-lang="Py"><span style="display:flex;"><span>fig, ax <span style="color:#f92672">=</span> plt<span style="color:#f92672">.</span>subplots()
+</span></span><span style="display:flex;"><span>ax<span style="color:#f92672">.</span>plot(df[<span style="color:#e6db74">&#34;time&#34;</span>], df[<span style="color:#e6db74">&#34;high&#34;</span>], color <span style="color:#f92672">=</span> <span style="color:#e6db74">&#34;green&#34;</span>)
+</span></span><span style="display:flex;"><span>
+</span></span><span style="display:flex;"><span>plt<span style="color:#f92672">.</span>xlabel(<span style="color:#e6db74">&#34;Years&#34;</span>)
+</span></span><span style="display:flex;"><span>plt<span style="color:#f92672">.</span>ylabel(<span style="color:#e6db74">&#34;The Value of One Bitcoin in USD&#34;</span>)
+</span></span><span style="display:flex;"><span>plt<span style="color:#f92672">.</span>title(<span style="color:#e6db74">&#34;The value of Bitcoin from 2010-Present&#34;</span>)
+</span></span></code></pre></div><p><img src="chart1.png" alt="alt text"></p>
+<h2 id="figuring-out-what-model-to-use-the-hard-part">Figuring out what model to use (the hard part)</h2>
+
+                    
+                    <HR width="100%" id="EOF">
+		    <p style="color:#777;">Last modified on 2026-03-23</p>
+                    
+                </div>
+            </div>
+            
+            
+            <nav class="post-pagination">
+
+                
+                <a class="newer-posts" href="/posts/my-first-post/">
+                    Previous<br>My first Chess Tournament!
+                </a>
+                
+
+                
+                <a class="older-posts">
+                    Next<br>No newer posts.
+                </a>
+                
+            </nav>
+            <div class="post-comment-wrapper">
+                
+
+
+
+
+
+
+
+
+
+
+
+
+<script src="https://giscus.app/client.js"
+        data-repo="georgephung123/georgephung123.github.io"
+        data-repo-id="R_kgDORrwRCA"
+        data-category="Announcements"
+        data-category-id="DIC_kwDORrwRCM4C5GrH"
+        data-mapping="pathname"
+        data-strict="0"
+        data-reactions-enabled=""
+        data-emit-metadata="0"
+        data-input-position="bottom"
+        data-theme="preferred_color_scheme"
+        data-lang="en"
+        crossorigin="anonymous"
+        async>
+</script>
+
+            </div>
+        </div>
+    </div>
+
+
+                    </div>
+            </div><div id="sideContainer" class="side-container">
+    
+    <a class="a-block nav-head false" href="http://localhost:1313/">
+    
+        <div class="nav-title">
+            George&#39;s Journal
+        </div>
+        
+        <div class="nav-subtitle">
+            George Phung&#39;s Blog
+        </div>
+        
+    </a>
+
+    <div class="nav-link-list">
+        
+        
+            
+            
+            
+                
+            
+            
+            
+            <a class="a-block nav-link-item active" href="/posts">
+                Archive
+            </a>
+            
+        
+            
+            
+            
+            
+            
+            <a class="a-block nav-link-item false" href="/tags">
+                Tags
+            </a>
+            
+        
+            
+            
+            
+            
+            
+            <a class="a-block nav-link-item false" href="/categories">
+                Categories
+            </a>
+            
+        
+            
+            
+            
+            
+            
+            <a class="a-block nav-link-item false" href="/about">
+                About
+            </a>
+            
+        
+            
+            
+            
+            
+            
+            <a class="a-block nav-link-item false" href="/index.xml">
+                RSS Feed
+            </a>
+            
+        
+    </div>
+
+    
+
+    <div class="nav-footer">
+        
+Hugo Theme <a href="https://github.com/amazingrise/hugo-theme-diary">Diary</a> by <a href="https://risehere.net/">Rise</a>
+<br>
+Ported from <a href="https://mak1t0.cc/" target="_blank" rel="noreferrer noopener">Makito</a>'s <a href="https://github.com/SumiMakito/hexo-theme-journal/" target="_blank" rel="noreferrer noopener">Journal.</a> <br>
+<br>
+
+&copy;
+	
+	2026 George&#39;s Journal
+	
+
+    </div>
+    
+</div><div id="extraContainer" class="extra-container">
+    <div class="toc-wrapper">
+        
+
+        
+        <div class="toc">
+
+
+	<div class="toc-content">
+	
+		
+		
+		
+		<center>- CATALOG -</center>
+		
+		
+		<ul>
+			
+				
+				
+					
+						
+						
+						
+						
+						
+							<li>
+								<a href="#preface" class="nav-preface">
+									Preface
+								</a>
+							</li>
+						
+						
+					
+				
+			
+				
+				
+					
+						
+						
+						
+						
+						
+							<li>
+								<a href="#the-actual-process" class="nav-the-actual-process">
+									The actual process!
+								</a>
+							</li>
+						
+						
+					
+				
+			
+				
+				
+					
+						
+						
+						
+						
+							
+								
+									<ul>
+								
+							
+						
+						
+							<li>
+								<a href="#setting-up-the-data" class="nav-setting-up-the-data">
+									Setting up the data
+								</a>
+							</li>
+						
+						
+					
+				
+			
+				
+				
+					
+						
+						
+						
+						
+						
+							<li>
+								<a href="#figuring-out-what-model-to-use-the-hard-part" class="nav-figuring-out-what-model-to-use-the-hard-part">
+									Figuring out what model to use (the hard part)
+								</a>
+							</li>
+						
+						
+					
+				
+			
+		</ul>
+	</div>
+
+</div>
+        
+    </div>
+    <div class="pagination">
+        <a id="globalBackToTop" class="pagination-action animated-visibility" href="#top"
+            :class="{ invisible: scrollY == 0 }">
+            <i class="material-icons pagination-action-icon">
+                keyboard_arrow_up
+            </i>
+        </a>
+        
+        <a type="button" class="pagination-action" id="darkModeToggleButton">
+            <span class="material-icons pagination-action-icon" id="darkModeToggleIcon">
+                dark_mode
+            </span>
+        </a>
+        
+        
+    </div>
+</div>
+
+<div id="single-column-footer">
+Hugo Theme <a href="https://github.com/amazingrise/hugo-theme-diary">Diary</a> by <a href="https://risehere.net/">Rise</a>
+<br>
+Ported from <a href="https://mak1t0.cc/" target="_blank" rel="noreferrer noopener">Makito</a>'s <a href="https://github.com/SumiMakito/hexo-theme-journal/" target="_blank" rel="noreferrer noopener">Journal.</a> <br>
+<br>
+
+&copy;
+	
+	2026 George&#39;s Journal
+	
+</div>
+            </div>
+    
+    <script src="/js/journal.js"></script></body>
+</html>

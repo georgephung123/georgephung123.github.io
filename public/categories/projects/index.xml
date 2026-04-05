@@ -1,26 +1,19 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes"?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>Posts on George&#39;s Journal</title>
-    <link>http://localhost:1313/posts/</link>
-    <description>Recent content in Posts on George&#39;s Journal</description>
+    <title>Projects on George&#39;s Journal</title>
+    <link>http://localhost:1313/categories/projects/</link>
+    <description>Recent content in Projects on George&#39;s Journal</description>
     <generator>Hugo</generator>
     <language>en-us</language>
     <lastBuildDate>Mon, 23 Mar 2026 14:29:33 -0400</lastBuildDate>
-    <atom:link href="http://localhost:1313/posts/index.xml" rel="self" type="application/rss+xml" />
+    <atom:link href="http://localhost:1313/categories/projects/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>Attemping to Predict the Value of Bitcoin</title>
       <link>http://localhost:1313/posts/bitcoin_prediction/</link>
       <pubDate>Mon, 23 Mar 2026 14:29:33 -0400</pubDate>
       <guid>http://localhost:1313/posts/bitcoin_prediction/</guid>
       <description>&lt;h1 id=&#34;preface&#34;&gt;Preface&lt;/h1&gt;&#xA;&lt;h1 id=&#34;the-actual-process&#34;&gt;The actual process!&lt;/h1&gt;&#xA;&lt;h2 id=&#34;setting-up-the-data&#34;&gt;Setting up the data&lt;/h2&gt;&#xA;&lt;p&gt;I found this website called &amp;ldquo;CoinDesk&amp;rdquo;, which was a price data tracker for many cryptocurrencies, such as Bitcoin! This website actually has an &amp;ldquo;API call preview&amp;rdquo; &lt;em&gt;with parameters&lt;/em&gt; on the documentation, so it was much easier to implement the output in my program!&lt;/p&gt;&#xA;&lt;p&gt;&lt;img src=&#34;website.png&#34; alt=&#34;&#34;&gt;&#xA;&lt;em&gt;What the API call preview looks like!&lt;/em&gt;&lt;/p&gt;&#xA;&lt;p&gt;Here&amp;rsquo;s what I basically did:&lt;/p&gt;&#xA;&lt;div class=&#34;highlight&#34;&gt;&lt;pre tabindex=&#34;0&#34; style=&#34;color:#f8f8f2;background-color:#272822;-moz-tab-size:4;-o-tab-size:4;tab-size:4;-webkit-text-size-adjust:none;&#34;&gt;&lt;code class=&#34;language-Python&#34; data-lang=&#34;Python&#34;&gt;&lt;span style=&#34;display:flex;&#34;&gt;&lt;span&gt;url &lt;span style=&#34;color:#f92672&#34;&gt;=&lt;/span&gt; &lt;span style=&#34;color:#e6db74&#34;&gt;&amp;#34;https://min-api.cryptocompare.com/data/v2/histoday?fsym=BTC&amp;amp;tsym=USD&amp;amp;aggregate=1&amp;amp;limit=1&amp;amp;allData=true&amp;amp;api_key=*******************************&amp;#34;&lt;/span&gt;&#xA;&lt;/span&gt;&lt;/span&gt;&lt;span style=&#34;display:flex;&#34;&gt;&lt;span&gt;&#xA;&lt;/span&gt;&lt;/span&gt;&lt;span style=&#34;display:flex;&#34;&gt;&lt;span&gt;page &lt;span style=&#34;color:#f92672&#34;&gt;=&lt;/span&gt; requests&lt;span style=&#34;color:#f92672&#34;&gt;.&lt;/span&gt;get(url)&#xA;&lt;/span&gt;&lt;/span&gt;&lt;span style=&#34;display:flex;&#34;&gt;&lt;span&gt;data &lt;span style=&#34;color:#f92672&#34;&gt;=&lt;/span&gt; page&lt;span style=&#34;color:#f92672&#34;&gt;.&lt;/span&gt;json()[&lt;span style=&#34;color:#e6db74&#34;&gt;&amp;#39;Data&amp;#39;&lt;/span&gt;][&lt;span style=&#34;color:#e6db74&#34;&gt;&amp;#39;Data&amp;#39;&lt;/span&gt;]&#xA;&lt;/span&gt;&lt;/span&gt;&lt;span style=&#34;display:flex;&#34;&gt;&lt;span&gt;df &lt;span style=&#34;color:#f92672&#34;&gt;=&lt;/span&gt; pd&lt;span style=&#34;color:#f92672&#34;&gt;.&lt;/span&gt;DataFrame(data)&#xA;&lt;/span&gt;&lt;/span&gt;&lt;span style=&#34;display:flex;&#34;&gt;&lt;span&gt;&#xA;&lt;/span&gt;&lt;/span&gt;&lt;span style=&#34;display:flex;&#34;&gt;&lt;span&gt;df[&lt;span style=&#34;color:#e6db74&#34;&gt;&amp;#34;time&amp;#34;&lt;/span&gt;] &lt;span style=&#34;color:#f92672&#34;&gt;=&lt;/span&gt; [datetime&lt;span style=&#34;color:#f92672&#34;&gt;.&lt;/span&gt;datetime&lt;span style=&#34;color:#f92672&#34;&gt;.&lt;/span&gt;fromtimestamp(time) &lt;span style=&#34;color:#66d9ef&#34;&gt;for&lt;/span&gt; time &lt;span style=&#34;color:#f92672&#34;&gt;in&lt;/span&gt; df[&lt;span style=&#34;color:#e6db74&#34;&gt;&amp;#34;time&amp;#34;&lt;/span&gt;]]&#xA;&lt;/span&gt;&lt;/span&gt;&lt;span style=&#34;display:flex;&#34;&gt;&lt;span&gt;df&#xA;&lt;/span&gt;&lt;/span&gt;&lt;/code&gt;&lt;/pre&gt;&lt;/div&gt;&lt;p&gt;&lt;em&gt;The API key is censored for safety.&lt;/em&gt;&lt;/p&gt;</description>
-    </item>
-    <item>
-      <title>My first Chess Tournament!</title>
-      <link>http://localhost:1313/posts/my-first-post/</link>
-      <pubDate>Fri, 20 Mar 2026 17:29:08 -0400</pubDate>
-      <guid>http://localhost:1313/posts/my-first-post/</guid>
-      <description>&lt;p&gt;&lt;em&gt;&lt;strong&gt;Some of the photos taken are not mine, as this is an event that occured before I began to blog.&lt;/strong&gt;&lt;/em&gt;&lt;/p&gt;&#xA;&lt;h1 id=&#34;the-events-before-the-tournament&#34;&gt;The events before the tournament&lt;/h1&gt;&#xA;&lt;p&gt;I was coming back to Richmond to visit my mother for Valentine&amp;rsquo;s weekend since it was her birthday, but I had gotten screwed over the day prior as I was supposed to get carpooled by someone then they ghosted me after I asked for a confirmation. Feeling frustrated, I had to scramble out of my bed to buy an early-morning Amtrak ticket.&lt;/p&gt;</description>
     </item>
   </channel>
 </rss>

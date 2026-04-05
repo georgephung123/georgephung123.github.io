@@ -4,7 +4,7 @@ description: "I played a chess tournament back in February, marking my first tou
 featured_image: "players.jpg"
 title: "My first Chess Tournament!"
 tags: ["chess"]
-categories: ["hobbies"]
+categories: ["Hobbies"]
 ---
 
 
