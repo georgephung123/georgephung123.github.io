@@ -25,7 +25,7 @@ I left my apartment at around seven to catch my first bus, which took me from my
 
 The bus left promptly at 7:45AM; it was a 90 minute trip to get to the train station in Roanoke. The early morning sun had a distinct "warm-orangey" feel, it felt like a "filter" applied to everything it touched.
 
-At around 9:15AM, I had arrived at the Third Street Station. The walking commute from the Station to the Amtrak platform was seven minutes, unlike where most stations are housed adajent to the train. I sat down in the waiting room of the station for around ten minutes, it was a little chilly outside and my train doesn't come for another 40 minutes.
+At around 9:15AM, I had arrived at the Third Street Station. The walking commute from the Station to the Amtrak platform was seven minutes, unlike where most stations are housed adajcent to the train. I sat down in the waiting room of the station for around ten minutes, it was a little chilly outside and my train doesn't come for another 40 minutes.
 
 Not the smartest idea I've had, but not the worst.
 
@@ -75,7 +75,7 @@ I played in the open section because I was well above the 1300 Chess.com thresho
 | 3rd   | $25          | $20                     |
 
 
-Each game was 15+10, meaning that you start with 15 minutes and your time gets added by 10 seconds every time you make ae mode. Most people, including me, recorded their moves. However, in the latter stages in the game, there is not enough time to record moves and to play off increment. This is why most of the games I will have below do not have a clear-cut ending.
+Each game was 15+10, meaning that you start with 15 minutes and your time gets added by 10 seconds every time you make a move. Most people, including me, recorded their moves. However, in the latter stages in the game, there is not enough time to record moves and to play off increment. This is why most of the games I will have below do not have a clear-cut ending.
 
 Going into this, I was a little nervous, probably because this is a new experience for me and I always get nervous whenever I am experiencing something new. After a round or two, I eased in comfortably. 
 ![](ratings.png)
@@ -105,8 +105,8 @@ Some special symbols:
 - **x** = capture (Nxf3 = Knight captures on f3)
 - **+** = check
 - **#** = checkmate
-- **O-O** = kingside castle
-- **O-O-O** = queenside castle
+- **O-O** = king-side castle
+- **O-O-O** = queen-side castle
 
 One more thing, I will be using the term touch-move, meaning that if you touch a certain piece, you *must* move that said piece.
 
@@ -227,7 +227,7 @@ The bishop being on a1 effectively locks it out for the rest of the game, as the
 
 I was happy that I managed to get a win, even though it was by a technicality.
 
-A good amount of players had already left the venue to grab lunch when my game ended. I elected to check out the food back in the bar as that piqued my curiosity. The food on the menu had more or less generic bar food; they had wings, pizza, etc. I ordered the pepperoni flatbread pizza (no image sorry) and it was good! There was actually a few chess boards set up back at the bar section, so I played a few casual bitz games with some of the members!
+A good amount of players had already left the venue to grab lunch when my game ended. I elected to check out the food back in the bar as that piqued my curiosity. The food on the menu had more or less generic bar food; they had wings, pizza, etc. I ordered the pepperoni flatbread pizza (no image sorry) and it was good! There was actually a few chess boards set up back at the bar section, so I played a few casual blitz games with some of the members!
 
 ## Round 3
 
@@ -246,7 +246,7 @@ I thought knight to a3 was a weird move when he played it, usually the knights g
  
  White has a pretty strong attack on my king-side, his rook is directly aimed at my king, his queen is ready to go to h5, and his bishop targets the light-squares, making defense more difficult. I had ignored the attack, going at the queen-side instead. This was the last possible moment where I could addressed white's attack without being completely losing. The move f6 opens up the center, allowing my pieces to defeend my king on time.
 
- Howeever, I did not play f6 and from that on, I was in a losing position.
+ However, I did not play f6 and from that on, I was in a losing position.
 
 11. ... Rfe8 19. Qh5 Qe6 20. Bf5
  
