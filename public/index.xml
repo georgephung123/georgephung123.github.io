@@ -8,50 +8,8 @@
     </description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
-    <lastBuildDate>Mon, 23 Mar 2026 14:29:33 -0400</lastBuildDate>
+    <lastBuildDate>Fri, 20 Mar 2026 17:29:08 -0400</lastBuildDate>
     <atom:link href="http://localhost:1313/index.xml" rel="self" type="application/rss+xml" />
-    <item>
-      <title>Attemping to Predict the Value of Bitcoin</title>
-      <link>http://localhost:1313/posts/bitcoin_prediction/</link>
-      <pubDate>Mon, 23 Mar 2026 14:29:33 -0400</pubDate>
-      <guid>http://localhost:1313/posts/bitcoin_prediction/</guid>
-      <description>George&#39;s Journal http://localhost:1313/posts/bitcoin_prediction/ - &lt;h1 id=&#34;preface&#34;&gt;Preface&lt;/h1&gt;
-&lt;h1 id=&#34;the-actual-process&#34;&gt;The actual process!&lt;/h1&gt;
-&lt;h2 id=&#34;setting-up-the-data&#34;&gt;Setting up the data&lt;/h2&gt;
-&lt;p&gt;I found this website called &amp;ldquo;CoinDesk&amp;rdquo;, which was a price data tracker for many cryptocurrencies, such as Bitcoin! This website actually has an &amp;ldquo;API call preview&amp;rdquo; &lt;em&gt;with parameters&lt;/em&gt; on the documentation, so it was much easier to implement the output in my program!&lt;/p&gt;
-&lt;p&gt;&lt;img src=&#34;website.png&#34; alt=&#34;&#34;&gt;
-&lt;em&gt;What the API call preview looks like!&lt;/em&gt;&lt;/p&gt;
-&lt;p&gt;Here&amp;rsquo;s what I basically did:&lt;/p&gt;
-&lt;div class=&#34;highlight&#34;&gt;&lt;pre tabindex=&#34;0&#34; style=&#34;color:#f8f8f2;background-color:#272822;-moz-tab-size:4;-o-tab-size:4;tab-size:4;-webkit-text-size-adjust:none;&#34;&gt;&lt;code class=&#34;language-Python&#34; data-lang=&#34;Python&#34;&gt;&lt;span style=&#34;display:flex;&#34;&gt;&lt;span&gt;url &lt;span style=&#34;color:#f92672&#34;&gt;=&lt;/span&gt; &lt;span style=&#34;color:#e6db74&#34;&gt;&amp;#34;https://min-api.cryptocompare.com/data/v2/histoday?fsym=BTC&amp;amp;tsym=USD&amp;amp;aggregate=1&amp;amp;limit=1&amp;amp;allData=true&amp;amp;api_key=*******************************&amp;#34;&lt;/span&gt;
-&lt;/span&gt;&lt;/span&gt;&lt;span style=&#34;display:flex;&#34;&gt;&lt;span&gt;
-&lt;/span&gt;&lt;/span&gt;&lt;span style=&#34;display:flex;&#34;&gt;&lt;span&gt;page &lt;span style=&#34;color:#f92672&#34;&gt;=&lt;/span&gt; requests&lt;span style=&#34;color:#f92672&#34;&gt;.&lt;/span&gt;get(url)
-&lt;/span&gt;&lt;/span&gt;&lt;span style=&#34;display:flex;&#34;&gt;&lt;span&gt;data &lt;span style=&#34;color:#f92672&#34;&gt;=&lt;/span&gt; page&lt;span style=&#34;color:#f92672&#34;&gt;.&lt;/span&gt;json()[&lt;span style=&#34;color:#e6db74&#34;&gt;&amp;#39;Data&amp;#39;&lt;/span&gt;][&lt;span style=&#34;color:#e6db74&#34;&gt;&amp;#39;Data&amp;#39;&lt;/span&gt;]
-&lt;/span&gt;&lt;/span&gt;&lt;span style=&#34;display:flex;&#34;&gt;&lt;span&gt;df &lt;span style=&#34;color:#f92672&#34;&gt;=&lt;/span&gt; pd&lt;span style=&#34;color:#f92672&#34;&gt;.&lt;/span&gt;DataFrame(data)
-&lt;/span&gt;&lt;/span&gt;&lt;span style=&#34;display:flex;&#34;&gt;&lt;span&gt;
-&lt;/span&gt;&lt;/span&gt;&lt;span style=&#34;display:flex;&#34;&gt;&lt;span&gt;df[&lt;span style=&#34;color:#e6db74&#34;&gt;&amp;#34;time&amp;#34;&lt;/span&gt;] &lt;span style=&#34;color:#f92672&#34;&gt;=&lt;/span&gt; [datetime&lt;span style=&#34;color:#f92672&#34;&gt;.&lt;/span&gt;datetime&lt;span style=&#34;color:#f92672&#34;&gt;.&lt;/span&gt;fromtimestamp(time) &lt;span style=&#34;color:#66d9ef&#34;&gt;for&lt;/span&gt; time &lt;span style=&#34;color:#f92672&#34;&gt;in&lt;/span&gt; df[&lt;span style=&#34;color:#e6db74&#34;&gt;&amp;#34;time&amp;#34;&lt;/span&gt;]]
-&lt;/span&gt;&lt;/span&gt;&lt;span style=&#34;display:flex;&#34;&gt;&lt;span&gt;df
-&lt;/span&gt;&lt;/span&gt;&lt;/code&gt;&lt;/pre&gt;&lt;/div&gt;&lt;p&gt;&lt;em&gt;The API key is censored for safety.&lt;/em&gt;&lt;/p&gt;
-&lt;p&gt;I took the URL and extracted the historical data of the daily value of Bitcoin from the JSON! The time was in UNIX Epoch, so I had to convert it into more human-readable time.&lt;/p&gt;
-&lt;p&gt;The parameters (from the URL):&lt;/p&gt;
-&lt;ul&gt;
-&lt;li&gt;fsym: the cryptocurrency you are interested in&lt;/li&gt;
-&lt;li&gt;tsym: the currency you want to convert the crptocurrency into&lt;/li&gt;
-&lt;li&gt;aggregate: the number of days you want to aggregate the data into one data point&lt;/li&gt;
-&lt;li&gt;limit: the number of data points you want to return&lt;/li&gt;
-&lt;li&gt;allData: Returns all data&lt;/li&gt;
-&lt;/ul&gt;
-&lt;p&gt;So far, this isn&amp;rsquo;t too bad. I basically called the data from an API and converted it into a pandas DataFrame!&lt;/p&gt;
-&lt;p&gt;Making a quick data visualization:&lt;/p&gt;
-&lt;div class=&#34;highlight&#34;&gt;&lt;pre tabindex=&#34;0&#34; style=&#34;color:#f8f8f2;background-color:#272822;-moz-tab-size:4;-o-tab-size:4;tab-size:4;-webkit-text-size-adjust:none;&#34;&gt;&lt;code class=&#34;language-Py&#34; data-lang=&#34;Py&#34;&gt;&lt;span style=&#34;display:flex;&#34;&gt;&lt;span&gt;fig, ax &lt;span style=&#34;color:#f92672&#34;&gt;=&lt;/span&gt; plt&lt;span style=&#34;color:#f92672&#34;&gt;.&lt;/span&gt;subplots()
-&lt;/span&gt;&lt;/span&gt;&lt;span style=&#34;display:flex;&#34;&gt;&lt;span&gt;ax&lt;span style=&#34;color:#f92672&#34;&gt;.&lt;/span&gt;plot(df[&lt;span style=&#34;color:#e6db74&#34;&gt;&amp;#34;time&amp;#34;&lt;/span&gt;], df[&lt;span style=&#34;color:#e6db74&#34;&gt;&amp;#34;high&amp;#34;&lt;/span&gt;], color &lt;span style=&#34;color:#f92672&#34;&gt;=&lt;/span&gt; &lt;span style=&#34;color:#e6db74&#34;&gt;&amp;#34;green&amp;#34;&lt;/span&gt;)
-&lt;/span&gt;&lt;/span&gt;&lt;span style=&#34;display:flex;&#34;&gt;&lt;span&gt;
-&lt;/span&gt;&lt;/span&gt;&lt;span style=&#34;display:flex;&#34;&gt;&lt;span&gt;plt&lt;span style=&#34;color:#f92672&#34;&gt;.&lt;/span&gt;xlabel(&lt;span style=&#34;color:#e6db74&#34;&gt;&amp;#34;Years&amp;#34;&lt;/span&gt;)
-&lt;/span&gt;&lt;/span&gt;&lt;span style=&#34;display:flex;&#34;&gt;&lt;span&gt;plt&lt;span style=&#34;color:#f92672&#34;&gt;.&lt;/span&gt;ylabel(&lt;span style=&#34;color:#e6db74&#34;&gt;&amp;#34;The Value of One Bitcoin in USD&amp;#34;&lt;/span&gt;)
-&lt;/span&gt;&lt;/span&gt;&lt;span style=&#34;display:flex;&#34;&gt;&lt;span&gt;plt&lt;span style=&#34;color:#f92672&#34;&gt;.&lt;/span&gt;title(&lt;span style=&#34;color:#e6db74&#34;&gt;&amp;#34;The value of Bitcoin from 2010-Present&amp;#34;&lt;/span&gt;)
-&lt;/span&gt;&lt;/span&gt;&lt;/code&gt;&lt;/pre&gt;&lt;/div&gt;&lt;p&gt;&lt;img src=&#34;chart1.png&#34; alt=&#34;alt text&#34;&gt;&lt;/p&gt;
-&lt;h2 id=&#34;figuring-out-what-model-to-use-the-hard-part&#34;&gt;Figuring out what model to use (the hard part)&lt;/h2&gt;
- - http://localhost:1313/posts/bitcoin_prediction/ - </description>
-    </item>
     <item>
       <title>My first Chess Tournament!</title>
       <link>http://localhost:1313/posts/my-first-post/</link>
