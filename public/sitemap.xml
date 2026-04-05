@@ -5,22 +5,43 @@
     <loc>http://localhost:1313/categories/</loc>
     <lastmod>2026-04-04T22:30:07-04:00</lastmod>
   </url><url>
-    <loc>http://localhost:1313/tags/chess/</loc>
-    <lastmod>2026-04-04T22:30:07-04:00</lastmod>
+    <loc>http://localhost:1313/tags/charlotte/</loc>
+    <lastmod>2026-04-04T01:00:01-04:00</lastmod>
   </url><url>
     <loc>http://localhost:1313/</loc>
-    <lastmod>2026-04-04T22:30:07-04:00</lastmod>
-  </url><url>
-    <loc>http://localhost:1313/categories/hobbies/</loc>
-    <lastmod>2026-04-04T22:30:07-04:00</lastmod>
-  </url><url>
-    <loc>http://localhost:1313/posts/my-first-post/</loc>
     <lastmod>2026-04-04T22:30:07-04:00</lastmod>
   </url><url>
     <loc>http://localhost:1313/posts/</loc>
     <lastmod>2026-04-04T22:30:07-04:00</lastmod>
   </url><url>
     <loc>http://localhost:1313/tags/</loc>
+    <lastmod>2026-04-04T22:30:07-04:00</lastmod>
+  </url><url>
+    <loc>http://localhost:1313/posts/charlotte/</loc>
+    <lastmod>2026-04-04T01:00:01-04:00</lastmod>
+  </url><url>
+    <loc>http://localhost:1313/categories/travel/</loc>
+    <lastmod>2026-04-04T01:00:01-04:00</lastmod>
+  </url><url>
+    <loc>http://localhost:1313/posts/bitcoin_prediction/</loc>
+    <lastmod>2026-04-04T22:30:07-04:00</lastmod>
+  </url><url>
+    <loc>http://localhost:1313/tags/bitcoin/</loc>
+    <lastmod>2026-04-04T22:30:07-04:00</lastmod>
+  </url><url>
+    <loc>http://localhost:1313/tags/machine-learning/</loc>
+    <lastmod>2026-04-04T22:30:07-04:00</lastmod>
+  </url><url>
+    <loc>http://localhost:1313/categories/projects/</loc>
+    <lastmod>2026-04-04T22:30:07-04:00</lastmod>
+  </url><url>
+    <loc>http://localhost:1313/tags/chess/</loc>
+    <lastmod>2026-04-04T22:30:07-04:00</lastmod>
+  </url><url>
+    <loc>http://localhost:1313/categories/hobbies/</loc>
+    <lastmod>2026-04-04T22:30:07-04:00</lastmod>
+  </url><url>
+    <loc>http://localhost:1313/posts/my-first-post/</loc>
     <lastmod>2026-04-04T22:30:07-04:00</lastmod>
   </url><url>
     <loc>http://localhost:1313/about/</loc>

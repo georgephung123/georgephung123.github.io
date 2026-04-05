@@ -3,7 +3,7 @@ date: 2026-04-04T17:29:08-04:00
 description: "Travelling to a city yay!"
 # featured_image: "players.jpg"
 draft: True
-title: "Traveing toCharlotte, NC"
+title: "Traveing to Charlotte, NC"
 tags: ["Charlotte"]
 categories: ["Travel"]
 ---

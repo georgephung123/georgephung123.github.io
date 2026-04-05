@@ -9,7 +9,6 @@ googleAnalytics = "G-ZWS5JM1KXW"
 [params]
 subtitle = "George Phung's Blog"
 favicon = "/favicon/favicon.ico"
-enableGiscus = true
 
     [params.giscus]
         data_repo="georgephung123/georgephung123.github.io"
