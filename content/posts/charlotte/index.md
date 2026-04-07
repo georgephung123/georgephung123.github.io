@@ -63,6 +63,8 @@ I tried taking some "good" photos (I am *very* inexperienced) while commuting:
 ## City walk
 ![alt text](image-11.png)
 *a rural kid enjoying the city*
+
+![alt text](image-12.png)
 *enjoying the BoFA tower*
 
 ![alt text](image-14.png)
@@ -79,3 +81,75 @@ I tried taking some "good" photos (I am *very* inexperienced) while commuting:
 
 ![alt text](image-17.png)
 *Ice cream*
+
+## Food time!
+
+![alt text](image-19.png)
+*a big building on top of the resturant*
+
+![alt text](image-20.png)
+*ping pong!*
+
+![alt text](image-21.png)
+*what it looked like on the inside*
+
+![alt text](image-22.png)
+*starter*
+
+![alt text](image-23.png)
+*starter finished*
+
+![alt text](image-24.png)
+*my main course*
+
+![alt text](image-25.png)
+*my sisters main course*
+
+![alt text](image-26.png)
+*my mothers main course*
+
+![alt text](image-27.png)
+*dessert*
+
+![alt text](image-28.png)
+*dessert part 2*
+
+## More city walks!
+![alt text](image-29.png)
+*night*
+
+![alt text](image-30.png)
+*even more night*
+
+![alt text](image-31.png)
+*tower at night*
+
+![alt text](image-32.png)
+*cool image thing on the left*
+
+## Museum of Illusions
+
+![alt text](image-33.png)
+
+![alt text](image-34.png)
+*spiral*
+
+![alt text](image-35.png)
+
+![alt text](image-36.png)
+*heart illision*
+
+![alt text](image-37.png)
+
+![alt text](image-38.png)
+
+![alt text](image-39.png)
+
+![alt text](image-40.png)
+
+![alt text](image-41.png)
+
+![alt text](image-42.png)
+
+![alt text](image-43.png)
+*towers of hanoi*
