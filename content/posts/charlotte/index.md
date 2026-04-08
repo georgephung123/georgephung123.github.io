@@ -151,5 +151,30 @@ I tried taking some "good" photos (I am *very* inexperienced) while commuting:
 
 ![alt text](image-42.png)
 
+![alt text](image-50.png)
+
 ![alt text](image-43.png)
 *towers of hanoi*
+
+![alt text](image-44.png)
+
+![alt text](image-45.png)
+
+![alt text](image-46.png)
+
+![alt text](image-47.png)
+
+![alt text](image-48.png)
+
+![alt text](image-49.png)
+
+![alt text](image-51.png)
+*hii robot!*
+
+# The next day
+
+![alt text](image-52.png)
+*Good morning!*
+
+![alt text](image-53.png)
+*Only in America where it's socially acceptable to have an ungodly amoutn of sugar for breakfast*
