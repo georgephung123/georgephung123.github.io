@@ -30,23 +30,50 @@ I tried taking some "good" photos (I am *very* inexperienced) while commuting:
 *Capturing some cows on the pasture, you can actually see a bit of a relfection on the window!*
 
 
-## banner elk
+## Banner Elk
+
+We made a relatively quick stop at Wilderness Run Alpine Coaster in Banner Elk. If you didn't know, an alpine coaster is similar to a roller coaster, but is a 1-2 coaster where you can control the speed yourself!
 
 ![alt text](image-2.png)
-*Picture of a building*
+*Picture of the building*
+
+It's actually not possible to order your tickets online in advance, you can only make a reservation for the time you want to ride. This was a bit unusual, as you were able to buy tickets online for almost every other tourist attraction. It was a little annoying, but it wasn't too big of a deal.
+
+The pricing was as follows:
+
+| Section | Price |
+| ------- | ----- |
+| Adult Tickets (13+) | $18 | 
+| Adult Ticket Bundle | $40 | 
+| Youth Tickets (7-12) | $14 | 
+| Youth Ticket Bundle | $32 | 
+| Child Tickets  (3-6) | $7 | 
+| Child Ticket Bundle | $15 | 
+
+*The ticket bundle was a bundle of 3 consecutive rides*
+
+We bought the tickets inside the souvenir shop. It was a little cozy "cottage" feel with many interesting things to buy. My mother chose the single ride, while my sister and I both opted for the ticket bundle, as my sister and I belived that the math for the three rides would be well worth it.
 
 ![alt text](image-3.png)
-*What the souviner shop looks like*
+*What the souvenir shop looks like*
 
 
 ![alt text](image-4.png)
 *A mushroom stool!*
 
+We all got in line together, although the line was around 25 people, it took over 45 minutes for us to get onto the coaster, as several people bought the ticket bundle, so they could stay on the coaster after they complete a trip. The line moved slowly, but we didn't mind. We chatted with some of the people in line, and one of them worked closely with my high school orchestra teacher, quite the small world we live in.
+
 ![alt text](image-5.png)
-*rules!*
+*The Rules!*
+
+We eventually got onto the coaster, the first part was slowly ascending up a hill, this is the only part where you are unable to control the coaster. Then after a quick turn on top of the hill, the controls were all yours. I *heavily* underestimated the speed of the coaster &mdash; I thought it would be a good idea to go full speed! I quickly got terrified of the sheer speed of the coaster. It almost felt like I was going to fall off the coaster tracks; I couldn't help but to slow down my coaster as I didn't want to lose any more years of my lifespan.
 
 ![alt text](image-6.png)
 *what the coaster looked like*
+
+We continued our journey to charlotte!
+
+![alt text](image-92.png)
 
 # Charlotte Time!
 
