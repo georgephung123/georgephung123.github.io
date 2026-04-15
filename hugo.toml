@@ -4,7 +4,7 @@ locale = 'en-us'
 title = "George's Journal"
 theme = "diary"
 enableGitInfo = true
-
+enableGiscus = true
 # -----
 [params]
 subtitle = "George Phung's Blog"
