@@ -71,41 +71,60 @@ We eventually got onto the coaster, the first part was slowly ascending up a hil
 ![alt text](image-6.png)
 *what the coaster looked like*
 
-We continued our journey to charlotte!
+We continued our journey to Charlotte!
 
 ![alt text](image-92.png)
+
+![alt text](image-93.png)
 
 # Charlotte Time!
 
 ## Arriving to Charlotte
 ![alt text](image-7.png)
 *Love can be found in the strangest of places. Taken in the hotel parking lot*
+
+We checked into a relatively standard hotel, nothing too special. We took a break in the hotel for an hour then went out to explore the city.
+
 ![alt text](image-8.png)
-*what the hotel room looked like*
+*What the hotel room looked like*
 ![alt text](image-9.png)
-*how spooky! the hotel hallway*
+*How spooky! The hotel hallway*
 ![alt text](image-10.png)
-*driving towards the city!*
+*Driving towards the city!*
 
 ## City walk
-![alt text](image-11.png)
-*a rural kid enjoying the city*
 
-![alt text](image-12.png)
-*enjoying the BoFA tower*
+The last time I'd been in a city of this size was nearly two years ago, when I visited my extended family in Guangzhou. I had basically forgotten what being in a city was like. Blacksburg was also the furthest from a city, it was deep in the mountains. It was surreal.
+
+![alt text](image-94.png)
+
+![alt text](image-11.png)
+
+As we were about to cross a bridge, I had spotted the "Bank of America Tower", a rather boring name as there are twelve skyscrapers that have the *exact* same name.
+
+![alt text](image-95.png)
+*What the front lawn of the tower looked like*
+
+Despite the lackadaisical name, it was a pleasant place to look at. The exclamation marks were part of the Charlotte SHOUT! organization, where they have an annual festival about art, music, food, and ideas! Several university flags were on display when we visited. There was a Virginia Tech flag in the back left corner, but unfortunately the wind wasn't strong enough to lift it. The flag never got its moment.
 
 ![alt text](image-14.png)
-*A stamping station*
+*A stamping station, unfortunately there were no papers to stamp it on*
+
+The exclamation marks were remarkably well-done. My favorite one by far was the math exclamation mark. It incorporated things such as the L2 distance formula, geometry, and even star systems!
 
 ![alt text](image-13.png)
-*math!*
+*Math!*
 
+Unfortunately this one was noticeably AI generated, if you take a closer look at it, you can feel the generic AI filter along with some of the text being warped. It extremely disappointing as all of the other exclamation marks were original work. 
 ![alt text](image-15.png)
-*AI Generated :(*
+
+This one was also well made. (insert why its good)
+I was actually feeling the exclamation mark to see if it was actually painted on or an image of the painting was slapped on, and it was painted on directly!
 
 ![alt text](image-16.png)
-*us*
+*My sister and I meticulously critiquing the art (not really)*
 
+A rather silly figure!
 ![alt text](image-17.png)
 *Ice cream*
 
