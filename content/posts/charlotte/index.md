@@ -124,12 +124,13 @@ I was actually feeling the exclamation mark to see if it was actually painted on
 ![alt text](image-16.png)
 *My sister and I meticulously critiquing the art (not really)*
 
-A rather silly figure!
+A rather silly figure! It's defintely a well-fit contrast compared to the "professionalness" of the buildings surrounding it.
 ![alt text](image-17.png)
 *Ice cream*
 
 ## Food time!
 
+I looked on Google maps for the resturant
 ![alt text](image-19.png)
 *a big building on top of the resturant*
 
