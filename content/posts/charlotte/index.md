@@ -130,15 +130,22 @@ A rather silly figure! It's defintely a well-fit contrast compared to the "profe
 
 ## Food time!
 
-I looked on Google maps for the resturant
+I looked on Google Maps for the restaurant, and I found one called "Culinary Dropout". I thought it was a pretty fun name, so we went there. 
+
+The restaurant exterior was refreshingly unpretentious, there was only a little sign paired with some string lights wrapped around the restaurant. It offered a warm invitation to come inside, not something you see often with resturants.
+
 ![alt text](image-19.png)
-*a big building on top of the resturant*
+*A big building on top of the restaurant*
+
+When we went inside, the hostess told us that there would be a thirty minute wait, but she pointed us towards some activities right outside of the restaurant! There was ping pong, cornhole and even a jumbo-sized Jenga tower to play with! I opted to play ping ping as it was the most enjoyable.
 
 ![alt text](image-20.png)
-*ping pong!*
+*Playing ping ping with my sister*
+
+Before I knew it, I received a text indicating that we were ready to be seated. Our server took us to a nice spot inside where there is a nice breeze right outside the door!
 
 ![alt text](image-21.png)
-*what it looked like on the inside*
+*What it looked like on the inside*
 
 ![alt text](image-22.png)
 *starter*
