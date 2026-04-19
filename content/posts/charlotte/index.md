@@ -135,7 +135,7 @@ I looked on Google Maps for the restaurant, and I found one called "Culinary Dro
 The restaurant exterior was refreshingly unpretentious, there was only a little sign paired with some string lights wrapped around the restaurant. It offered a warm invitation to come inside, not something you see often with resturants.
 
 ![alt text](image-19.png)
-*A big building on top of the restaurant*
+*A big building on top of the restaurant; I think it belongs to a insurance company*
 
 When we went inside, the hostess told us that there would be a thirty minute wait, but she pointed us towards some activities right outside of the restaurant! There was ping pong, cornhole and even a jumbo-sized Jenga tower to play with! I opted to play ping ping as it was the most enjoyable.
 
@@ -144,14 +144,23 @@ When we went inside, the hostess told us that there would be a thirty minute wai
 
 Before I knew it, I received a text indicating that we were ready to be seated. Our server took us to a nice spot inside where there is a nice breeze right outside the door!
 
+![alt text](image-96.png)
+*A wonderful view outside*
+
+The cozy lighting stayed consistent inside the resturant. There were also some performers singing live versions of popular pop covers.
 ![alt text](image-21.png)
 *What it looked like on the inside*
 
-![alt text](image-22.png)
-*starter*
+![alt text](image-97.png)
+*Menu*
 
-![alt text](image-23.png)
-*starter finished*
+The starters menu was nothing too special, but charging nearly ten dollars for potato chips is pricey. We were debating over if we should order the *Spicy Shrimp Crispy Rice* or the *BBQ Pork Belly Nachos*, but we ultimately decided on the nachos as my sister is squeamish on eating spicy food.
+
+![alt text](image-22.png)
+*BBQ Pork Belly Nachos, the starter!*
+
+It tasted really good! It taste like what nachos would usually taste like but the ingredients' quality is much higher. I noticed that the nachos itself came freshly off the deep fryer, the guacamole had a nice kick from the lime juice, but I didn't taste too much barbecue flavor from the pork belly.
+
 
 ![alt text](image-24.png)
 *my main course*
