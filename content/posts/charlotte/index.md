@@ -7,7 +7,7 @@ title: "Traveing to Charlotte, NC"
 tags: ["Charlotte"]
 categories: ["Travel"]
 ---
-# Pre-Charlotte Funsies!
+# Pre-Charlotte Funsies
 
 My family came down to my apartment at my university to travel to Charlotte! We decided it would be best to come during the weekend after my sister's spring break so they can come on Friday, sleep at my place, then commute to Charlotte in the morning.
 
@@ -128,7 +128,7 @@ A rather silly figure! It's defintely a well-fit contrast compared to the "profe
 ![alt text](image-17.png)
 *Ice cream*
 
-## Food time!
+## Dinner
 
 I looked on Google Maps for the restaurant, and I found one called "Culinary Dropout". I thought it was a pretty fun name, so we went there. 
 
@@ -161,16 +161,22 @@ The starters menu was nothing too special, but charging nearly ten dollars for p
 
 It tasted really good! It taste like what nachos would usually taste like but the ingredients' quality is much higher. I noticed that the nachos itself came freshly off the deep fryer, the guacamole had a nice kick from the lime juice, but I didn't taste too much barbecue flavor from the pork belly.
 
+For the main courses, I chose the *Steak Frites*, which was a prime skirt steak with black truffle butter, french fries, and some arugula topped with some parmesan cheese.
+
+The steak was cooked nicely; I had asked for medium rare. Ther steak tasted wonderul and was extremely tender as well. The arugula was extremely bitter by itself but it paired really well with the richness of the steak! The fries lacked a bit of flavor, but I dipped it in the white sauce (I do not know the name of) and it was really good!
 
 ![alt text](image-24.png)
 *my main course*
 
+My sister ordered the *M.A.C. Burger*. She told me that the burger tasted exactly like a McDonald's Big Mac, but just upcharged. Maybe that's why the named it like that, a scam in broad daylight!  
 ![alt text](image-25.png)
-*my sisters main course*
+*My sisters main course*
 
+My mother had ordered the *Asian Crunch Salad* which included purple cabbage, avocado, sesame, roasted cashew, fresno, dried mango, and thai curry vinaigrette. She said it was pretty good!
 ![alt text](image-26.png)
-*my mothers main course*
+*My mother's main course*
 
+Our server came back and gave us a few dessert recommendations, we chose the *Mississippi Mud Pie*
 ![alt text](image-27.png)
 *dessert*
 
