@@ -128,6 +128,11 @@ A rather silly figure! It's defintely a well-fit contrast compared to the "profe
 ![alt text](image-17.png)
 *Ice cream*
 
+![alt text](image-99.png)
+
+There was actually a small bridge in the middle of Charlotte. Below was the highway, which I found to be scary.
+![alt text](image-100.png)
+
 ## Dinner
 
 I looked on Google Maps for the restaurant, and I found one called "Culinary Dropout". I thought it was a pretty fun name, so we went there. 
@@ -176,37 +181,42 @@ My mother had ordered the *Asian Crunch Salad* which included purple cabbage, av
 ![alt text](image-26.png)
 *My mother's main course*
 
-Our server came back and gave us a few dessert recommendations, we chose the *Mississippi Mud Pie*
+Our server came back and gave us a few dessert recommendations. I honestly could not remember what she said in the moment because she was talking too quickly & being too detailed on the desserts itsself.
+![alt text](image-98.png)
+*Dessert Menu*
+
+We opted to choose the *Mississippi Mud Pie* as it sounded the best out of all of the others.
+
 ![alt text](image-27.png)
-*dessert*
+*Dessert*
 
 ![alt text](image-28.png)
-*dessert part 2*
+*Dessert part 2*
 
-## More city walks!
+It was pretty good! There was actually some chocolate sauce to pour on top of the pie. It was good, but the sauce was a little too viscous for my liking. It was rich (which I liked) but the crust was on the tougher side (which I did not like).
+
+## More city walking
+We got out of the resturant at around 8:30 PM. It was beautifully dark outside, probably when the cities shine the brightest. 
 ![alt text](image-29.png)
-*night*
 
 ![alt text](image-30.png)
-*even more night*
 
 ![alt text](image-31.png)
-*tower at night*
+*Tower at night*
 
 ![alt text](image-32.png)
-*cool image thing on the left*
+*Welcome to CLT!*
 
 ## Museum of Illusions
+Despite it being almost 9PM, we managed to squeeze in a timeslot to go and look at some illusions! It was around 30 bucks per person, which I thought was fair.
 
 ![alt text](image-33.png)
 
 ![alt text](image-34.png)
-*spiral*
 
 ![alt text](image-35.png)
 
 ![alt text](image-36.png)
-*heart illision*
 
 ![alt text](image-37.png)
 
@@ -223,14 +233,18 @@ Our server came back and gave us a few dessert recommendations, we chose the *Mi
 ![alt text](image-50.png)
 
 ![alt text](image-43.png)
-*towers of hanoi*
+*Towers of Hanoi, I actually programmed an algorithm in a Computer Science class*
 
+There was a section for the smaller "logic" puzzles to play with.
 ![alt text](image-44.png)
 
+This one was really easy, as many of the pieces were split from previous visitors, resulting in many one-tile blocks.
 ![alt text](image-45.png)
 
+This one was also relatively straightforward.
 ![alt text](image-46.png)
 
+I was unable to figure out this one however, I think the only way to solve it is by bruteforce.
 ![alt text](image-47.png)
 
 ![alt text](image-48.png)
