@@ -247,21 +247,25 @@ This one was also relatively straightforward.
 I was unable to figure out this one however, I think the only way to solve it is by bruteforce.
 ![alt text](image-47.png)
 
+This one was the star puzzle, where you have eight of the same pieces to assemble it into a wooden star. I remember having this puzzle when I was much younger but not being able to solve it. I still can't, so my sister solved it instead. 
 ![alt text](image-48.png)
 
-![alt text](image-49.png)
+This was a rather surprising solution as you expect the middle piece's corner is used to connect other pieces, rather than being a corner itself.
 
+![alt text](image-49.png)
+It was pretty fun overall, we left at around at 9:45PM to go back to our hotel.
 ![alt text](image-51.png)
-*hii robot!*
+*Hii robot!*
 
 # The next day
 
+Good morning!
 ![alt text](image-52.png)
-*Good morning!*
 
 ![alt text](image-53.png)
 *Only in America where it's socially acceptable to have an ungodly amoutn of sugar for breakfast*
 
+We planned a visit to NoDa the night before, so we went there!
 # NoDa
 
 ![alt text](image-54.png)
