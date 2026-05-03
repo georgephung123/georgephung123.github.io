@@ -1,20 +1,20 @@
 ---
 date: 2026-04-04T17:29:08-04:00
 description: "Travelling to a city yay!"
-# featured_image: "players.jpg"
+featured_image: "image-90.png"
 draft: True
-title: "Traveing to Charlotte, NC"
+title: "Charlotte, NC"
 tags: ["Charlotte"]
 categories: ["Travel"]
 ---
-# Pre-Charlotte Funsies
+# Pre-Charlotte Stuff
 
-My family came down to my apartment at my university to travel to Charlotte! We decided it would be best to come during the weekend after my sister's spring break so they can come on Friday, sleep at my place, then commute to Charlotte in the morning.
+My family came down to my apartment at my university to travel to Charlotte together. We decided it would be best to come during the weekend after my sister's spring break so they can come on Friday, sleep at my place, then commute to Charlotte in the morning.
 
 ![alt text](path.png)
 *Planned trip trajectory*
 
-My mother and I actually received an Instacart order (an app where you pick up and deliver groceries for tips) at around 9PM on Friday, being offered an 18 dollar tip! That did mean that we had to immediately get out from the comforts of my apartment to driving out to a grocery store within a 3 minute span. Unfortunately, we did not realize that delivery included *three* full packs of water bottles, and the delivery destination involved a flight of stairs and a decent amount of walking around the apartment complex. Hey, at least it paid for the electricity for the trip!
+My mother and I actually received an Instacart order (an app where you pick up and deliver groceries for tips) at around 9PM on Friday, being offered an 18 dollar tip! That did mean that we had to immediately get out from the comforts of my apartment to driving out to a grocery store within a 3 minute span. Unfortunately, we did not realize that delivery included *three* full packs of water bottles, and the delivery destination involved a flight of stairs and a decent amount of walking around the apartment complex. Hey, at least it paid for the electricity for the trip.
 
 We planned to make a stop first at Banner Elk, as it has a scenic alpine coaster that seemed pretty fun to try out.
 
@@ -218,12 +218,6 @@ Despite it being almost 9PM, we managed to squeeze in a timeslot to go and look 
 
 ![alt text](image-36.png)
 
-![alt text](image-37.png)
-
-![alt text](image-38.png)
-
-![alt text](image-39.png)
-
 ![alt text](image-40.png)
 
 ![alt text](image-41.png)
@@ -244,7 +238,7 @@ This one was really easy, as many of the pieces were split from previous visitor
 This one was also relatively straightforward.
 ![alt text](image-46.png)
 
-I was unable to figure out this one however, I think the only way to solve it is by bruteforce.
+I was unable to figure out this one however, I think the only way to solve it is by bruteforce. I noticed that one of the pieces' triangles were ripped off, which definitely made it harder to solve.
 ![alt text](image-47.png)
 
 This one was the star puzzle, where you have eight of the same pieces to assemble it into a wooden star. I remember having this puzzle when I was much younger but not being able to solve it. I still can't, so my sister solved it instead. 
@@ -253,34 +247,42 @@ This one was the star puzzle, where you have eight of the same pieces to assembl
 This was a rather surprising solution as you expect the middle piece's corner is used to connect other pieces, rather than being a corner itself.
 
 ![alt text](image-49.png)
-It was pretty fun overall, we left at around at 9:45PM to go back to our hotel.
+
+It was pretty fun overall, we left at around at 9:45PM to go back to our hotel. I did spot this rarity on the way back to the car!
+
 ![alt text](image-51.png)
 *Hii robot!*
 
 # The next day
 
-Good morning!
+Good morning! We debating on what to do the next day, such as going to a theme park, exploring a science museum, or look at a NASCAR museum, but nothing came to fruition.
+
 ![alt text](image-52.png)
 
 ![alt text](image-53.png)
-*Only in America where it's socially acceptable to have an ungodly amoutn of sugar for breakfast*
+*Only in America where it's socially acceptable to have an ungodly amount of sugar for breakfast.*
 
-We planned a visit to NoDa the night before, so we went there!
-# NoDa
+## NoDa
+My mom happened to find a city called NoDa online, a portmanteau of "North Davidson arts" in Charlotte, so we went there. 
 
-![alt text](image-54.png)
+I think we parked at some random spot in front of a local business, I was surprised that our car didnt get towed as a result.
+
+![alt text](image-58.png)
 
 ![alt text](image-55.png)
+*The water tower with the face looks kinda scary*
 
 ![alt text](image-56.png)
 
 ![alt text](image-57.png)
-
-![alt text](image-58.png)
+*A pretty unique contrast compared to the rest of the artworks displayed*
 
 ![alt text](image-59.png)
+*:3*
 
 ![alt text](image-60.png)
+
+We actually managed to stumble upon an art gallery whilst exploring the city. I think it was partnered with the local YMCA to display art for free! It was getting a little cold outside anyway, so might as well go inside.
 
 ![alt text](image-61.png)
 
@@ -295,6 +297,7 @@ We planned a visit to NoDa the night before, so we went there!
 ![alt text](image-72.png)
 
 ![alt text](image-66.png)
+*Unbelievably well-made.*
 
 ![alt text](image-67.png)
 
@@ -302,32 +305,48 @@ We planned a visit to NoDa the night before, so we went there!
 
 ![alt text](image-69.png)
 
+There was a lady who came up to us and gave us a tour of the room we were in. A good amount of the work was actually her own art that she made, so that was cool!
 ![alt text](image-70.png)
 
 ![alt text](image-71.png)
+*Hii! My sister actually made an entry on here.*
 
-# --
+## Next stop, Pilot Mountain
 
+We finally left Charlotte at around 10:30AM to head to Pilot Mountain, around an hour and thirty minute drive.
 ![alt text](image-73.png)
 
 ![alt text](image-74.png)
-
-# pilot mountain
+*My mom tried to wake me up to take pictures of the motorcycles, but I was knocked out so she took it for me*
 
 ![alt text](image-75.png)
+*The stone stump in the distance is Pilot Mountain*
 
+We were actually denied entry because the officer said that the parking lot was "full." I don't know how, but five minutes later when we came back it was open! A nice stroke of luck.
+
+![alt text](image-101.png)
+*Visitor Center*
+
+![alt text](image-102.png)
+*The map*
+
+We were fortunate enough (again) to have a shuttle that takes us to the top of the mountain for free. :3
 ![alt text](image-78.png)
 
+There is actually a trail that wraps around the Pilot Mountain, I thought it was inaccessible from where we were. I also saw a board that displays the count of various eagles spotted, which was pretty nice to see.
 ![alt text](image-76.png)
 
 ![alt text](image-77.png)
+*Being able to see the clouds casting shadows on the forest directly is not something you see everyday.*
 
 ![alt text](image-79.png)
 
+To my surpise, I somehow discovered the trail that loops around the Pilot Mountain, it was a short trail too, only being 0.8 miles.
 ![alt text](image-80.png)
 
 ![alt text](image-81.png)
 
+You can actually get on the flat rocks on the right to get a *really* nice selfie, but I was too scared unfortunately.
 ![alt text](image-82.png)
 
 ![alt text](image-83.png)
@@ -340,12 +359,13 @@ We planned a visit to NoDa the night before, so we went there!
 
 ![alt text](image-87.png)
 
-# back home
+# The end
 
 ![alt text](image-88.png)
 
 ![alt text](image-89.png)
 
 ![alt text](image-91.png)
+*Funny how it got extremely rainy when 30 minutes ago it was somewhat cloudy*
 
 ![alt text](image-90.png)
