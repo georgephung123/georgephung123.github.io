@@ -2,7 +2,6 @@
 date: 2026-04-04T17:29:08-04:00
 description: "Travelling to a city yay!"
 featured_image: "image-90.png"
-draft: True
 title: "Charlotte, NC"
 tags: ["Charlotte"]
 categories: ["Travel"]
