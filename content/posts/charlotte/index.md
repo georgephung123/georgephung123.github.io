@@ -117,7 +117,7 @@ The exclamation marks were remarkably well-done. My favorite one by far was the 
 Unfortunately this one was noticeably AI generated, if you take a closer look at it, you can feel the generic AI filter along with some of the text being warped. It extremely disappointing as all of the other exclamation marks were original work. 
 ![alt text](image-15.png)
 
-This one was also well made. (insert why its good)
+This one was also well made. I liked the contrast between the flowers and the universe!
 I was actually feeling the exclamation mark to see if it was actually painted on or an image of the painting was slapped on, and it was painted on directly!
 
 ![alt text](image-16.png)
