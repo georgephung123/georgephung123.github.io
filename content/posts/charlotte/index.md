@@ -1,7 +1,7 @@
 ---
 date: 2026-05-02T19:31:08-04:00
 description: "Travelling to a city yay!"
-featured_image: "image-90.png"
+featured_image: "/images/candy.png"
 title: "Charlotte, NC"
 tags: ["Charlotte"]
 categories: ["Travel"]
@@ -367,4 +367,4 @@ You can actually get on the flat rocks on the right to get a *really* nice selfi
 ![alt text](image-91.png)
 *Funny how it got extremely rainy when 30 minutes ago it was somewhat cloudy*
 
-![alt text](image-90.png)
+![alt text](candy.png)

@@ -1,7 +1,7 @@
 ---
 date: 2026-03-20T17:29:08-04:00
 description: "I played a chess tournament back in February, marking my first tournament ever played"
-featured_image: "players.jpg"
+featured_image: "/images/players.jpg"
 title: "My first Chess Tournament!"
 tags: ["chess"]
 categories: ["Hobbies"]
