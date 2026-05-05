@@ -3,37 +3,25 @@
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   <url>
     <loc>http://localhost:1313/categories/</loc>
-    <lastmod>2026-04-26T23:58:05-04:00</lastmod>
+    <lastmod>2026-05-03T17:04:54-04:00</lastmod>
   </url><url>
     <loc>http://localhost:1313/tags/charlotte/</loc>
-    <lastmod>2026-04-26T23:58:05-04:00</lastmod>
-  </url><url>
-    <loc>http://localhost:1313/</loc>
-    <lastmod>2026-04-26T23:58:05-04:00</lastmod>
-  </url><url>
-    <loc>http://localhost:1313/posts/</loc>
-    <lastmod>2026-04-26T23:58:05-04:00</lastmod>
-  </url><url>
-    <loc>http://localhost:1313/tags/</loc>
-    <lastmod>2026-04-26T23:58:05-04:00</lastmod>
+    <lastmod>2026-05-03T17:04:54-04:00</lastmod>
   </url><url>
     <loc>http://localhost:1313/posts/charlotte/</loc>
-    <lastmod>2026-04-26T23:58:05-04:00</lastmod>
+    <lastmod>2026-05-03T17:04:54-04:00</lastmod>
+  </url><url>
+    <loc>http://localhost:1313/</loc>
+    <lastmod>2026-05-03T17:04:54-04:00</lastmod>
+  </url><url>
+    <loc>http://localhost:1313/posts/</loc>
+    <lastmod>2026-05-03T17:04:54-04:00</lastmod>
+  </url><url>
+    <loc>http://localhost:1313/tags/</loc>
+    <lastmod>2026-05-03T17:04:54-04:00</lastmod>
   </url><url>
     <loc>http://localhost:1313/categories/travel/</loc>
-    <lastmod>2026-04-26T23:58:05-04:00</lastmod>
-  </url><url>
-    <loc>http://localhost:1313/posts/bitcoin_prediction/</loc>
-    <lastmod>2026-04-04T22:30:07-04:00</lastmod>
-  </url><url>
-    <loc>http://localhost:1313/tags/bitcoin/</loc>
-    <lastmod>2026-04-04T22:30:07-04:00</lastmod>
-  </url><url>
-    <loc>http://localhost:1313/tags/machine-learning/</loc>
-    <lastmod>2026-04-04T22:30:07-04:00</lastmod>
-  </url><url>
-    <loc>http://localhost:1313/categories/projects/</loc>
-    <lastmod>2026-04-04T22:30:07-04:00</lastmod>
+    <lastmod>2026-05-03T17:04:54-04:00</lastmod>
   </url><url>
     <loc>http://localhost:1313/tags/chess/</loc>
     <lastmod>2026-04-04T22:55:43-04:00</lastmod>
@@ -45,6 +33,6 @@
     <lastmod>2026-04-04T22:55:43-04:00</lastmod>
   </url><url>
     <loc>http://localhost:1313/about/</loc>
-    <lastmod>2026-03-21T17:41:43-04:00</lastmod>
+    <lastmod>2026-05-03T16:59:36-04:00</lastmod>
   </url>
 </urlset>
