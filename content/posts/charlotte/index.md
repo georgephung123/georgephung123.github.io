@@ -141,10 +141,10 @@ The restaurant exterior was refreshingly unpretentious, there was only a little 
 ![alt text](image-19.png)
 *A big building on top of the restaurant; I think it belongs to a insurance company*
 
-When we went inside, the hostess told us that there would be a thirty minute wait, but she pointed us towards some activities right outside of the restaurant! There was ping pong, cornhole and even a jumbo-sized Jenga tower to play with! I opted to play ping ping as it was the most enjoyable.
+When we went inside, the hostess told us that there would be a thirty minute wait, but she pointed us towards some activities right outside of the restaurant! There was ping pong, cornhole and even a jumbo-sized Jenga tower to play with! I opted to play ping pong as it was the most enjoyable.
 
 ![alt text](image-20.png)
-*Playing ping ping with my sister*
+*Playing ping pong with my sister*
 
 Before I knew it, I received a text indicating that we were ready to be seated. Our server took us to a nice spot inside where there is a nice breeze right outside the door!
 
