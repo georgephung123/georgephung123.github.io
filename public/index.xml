@@ -8,8 +8,55 @@
     </description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
-    <lastBuildDate>Sat, 02 May 2026 19:31:08 -0400</lastBuildDate>
+    <lastBuildDate>Mon, 08 Jun 2026 23:21:08 -0400</lastBuildDate>
     <atom:link href="http://localhost:1313/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>How good can I get at Minesweeper in 24 hours?</title>
+      <link>http://localhost:1313/posts/minesweeper/</link>
+      <pubDate>Mon, 08 Jun 2026 23:21:08 -0400</pubDate>
+      <guid>http://localhost:1313/posts/minesweeper/</guid>
+      <description>George&#39;s Journal http://localhost:1313/posts/minesweeper/ - &lt;h1 id=&#34;background&#34;&gt;Background&lt;/h1&gt;
+&lt;h2 id=&#34;rulesobjective&#34;&gt;Rules/Objective&lt;/h2&gt;
+&lt;p&gt;Minesweeper is a video game where it features a grid of tiles you can click on, some of which have hidden mines. The objective is to click on all of the non-mine tiles. The revealed tiles will have a number that represents the corresponding number of mines adjacent to that tile. To lose the game, it&amp;rsquo;s relatively simple; click on a tile with a hidden mine!&lt;/p&gt;
+&lt;p&gt;Let&amp;rsquo;s do a quick example if you do not know the rules already:&lt;/p&gt;
+&lt;p&gt;We are given a 4x4 grid with four mines.&lt;/p&gt;
+&lt;p&gt;&lt;img src=&#34;image.png&#34; alt=&#34;alt text&#34;&gt;&lt;/p&gt;
+&lt;p&gt;First tile click:&lt;/p&gt;
+&lt;p&gt;&lt;img src=&#34;image-1.png&#34; alt=&#34;alt text&#34;&gt;&lt;/p&gt;
+&lt;p&gt;There is the number &amp;ldquo;2&amp;rdquo;, meaning that there are two mines in the adajcent squares (including the corners) of the revealed tiles.&lt;/p&gt;
+&lt;p&gt;Another tile click:&lt;/p&gt;
+&lt;p&gt;&lt;img src=&#34;image-2.png&#34; alt=&#34;alt text&#34;&gt;&lt;/p&gt;
+&lt;p&gt;There is also a number &amp;ldquo;2&amp;rdquo; here, there could be a few scenarios here:&lt;/p&gt;
+&lt;ol&gt;
+&lt;li&gt;
+&lt;p&gt;There are two mines intersecting the revealed tiles (The flags are meant to be markers for the tiles that have a mine)
+&lt;img src=&#34;image-3.png&#34; alt=&#34;alt text&#34;&gt;&lt;/p&gt;
+&lt;/li&gt;
+&lt;li&gt;
+&lt;p&gt;There are three mines in a diagonal format
+&lt;img src=&#34;image-4.png&#34; alt=&#34;alt text&#34;&gt;&lt;/p&gt;
+&lt;/li&gt;
+&lt;li&gt;
+&lt;p&gt;There are four mines on the opposite side of the revealed tiles
+&lt;img src=&#34;image-5.png&#34; alt=&#34;alt text&#34;&gt;&lt;/p&gt;
+&lt;/li&gt;
+&lt;/ol&gt;
+&lt;p&gt;There are much more possiblites, but I wanted to highlight a few.&lt;/p&gt;
+&lt;p&gt;Clicking on the third tile:&lt;/p&gt;
+&lt;p&gt;&lt;img src=&#34;image-6.png&#34; alt=&#34;alt text&#34;&gt;&lt;/p&gt;
+&lt;p&gt;This actually reveals alot of information. Since we know that the are four mines in total, the number four in the revealed tiles means that all possible mines are within the adjacent squares of that tile! So effectively, we can simply ignore the right-most and the bottom-most row/column.&lt;/p&gt;
+&lt;p&gt;&lt;img src=&#34;image-7.png&#34; alt=&#34;alt text&#34;&gt;&lt;/p&gt;
+&lt;p&gt;This is nice because we can click on those tiles freely to gather further information.&lt;/p&gt;
+&lt;p&gt;&lt;img src=&#34;image-8.png&#34; alt=&#34;alt text&#34;&gt;&lt;/p&gt;
+&lt;p&gt;Okay! This is relatively straightforward now.&lt;/p&gt;
+&lt;p&gt;&lt;img src=&#34;image-9.png&#34; alt=&#34;alt text&#34;&gt;&lt;/p&gt;
+&lt;p&gt;We &lt;em&gt;know&lt;/em&gt; that there are two mines here b/c there are two mines in the tile cirlced, and since there are two tiles left, they must be there!&lt;/p&gt;
+&lt;p&gt;&lt;img src=&#34;image-10.png&#34; alt=&#34;alt text&#34;&gt;&lt;/p&gt;
+&lt;p&gt;There is also another mine near the bottom left corner, as the number one below indicates as so. Notice how that there are two mines in the adajcent tiles marked already for number circled. If we know for &lt;em&gt;sure&lt;/em&gt; that there are two mines in those locations, we can simply click on the unmarked tile that is adajcent to the circled number.&lt;/p&gt;
+&lt;p&gt;&lt;img src=&#34;image-11.png&#34; alt=&#34;alt text&#34;&gt;&lt;/p&gt;
+&lt;p&gt;Yay!! That&amp;rsquo;s how you win in Minesweeper.&lt;/p&gt;
+ - http://localhost:1313/posts/minesweeper/ - </description>
+    </item>
     <item>
       <title>Charlotte, NC</title>
       <link>http://localhost:1313/posts/charlotte/</link>
@@ -124,9 +171,9 @@ I was actually feeling the exclamation mark to see if it was actually painted on
 &lt;p&gt;The restaurant exterior was refreshingly unpretentious, there was only a little sign paired with some string lights wrapped around the restaurant. It offered a warm invitation to come inside, not something you see often with resturants.&lt;/p&gt;
 &lt;p&gt;&lt;img src=&#34;image-19.png&#34; alt=&#34;alt text&#34;&gt;
 &lt;em&gt;A big building on top of the restaurant; I think it belongs to a insurance company&lt;/em&gt;&lt;/p&gt;
-&lt;p&gt;When we went inside, the hostess told us that there would be a thirty minute wait, but she pointed us towards some activities right outside of the restaurant! There was ping pong, cornhole and even a jumbo-sized Jenga tower to play with! I opted to play ping ping as it was the most enjoyable.&lt;/p&gt;
+&lt;p&gt;When we went inside, the hostess told us that there would be a thirty minute wait, but she pointed us towards some activities right outside of the restaurant! There was ping pong, cornhole and even a jumbo-sized Jenga tower to play with! I opted to play ping pong as it was the most enjoyable.&lt;/p&gt;
 &lt;p&gt;&lt;img src=&#34;image-20.png&#34; alt=&#34;alt text&#34;&gt;
-&lt;em&gt;Playing ping ping with my sister&lt;/em&gt;&lt;/p&gt;
+&lt;em&gt;Playing ping pong with my sister&lt;/em&gt;&lt;/p&gt;
 &lt;p&gt;Before I knew it, I received a text indicating that we were ready to be seated. Our server took us to a nice spot inside where there is a nice breeze right outside the door!&lt;/p&gt;
 &lt;p&gt;&lt;img src=&#34;image-96.png&#34; alt=&#34;alt text&#34;&gt;
 &lt;em&gt;A wonderful view outside&lt;/em&gt;&lt;/p&gt;
@@ -262,6 +309,48 @@ I was actually feeling the exclamation mark to see if it was actually painted on
 &lt;em&gt;Funny how it got extremely rainy when 30 minutes ago it was somewhat cloudy&lt;/em&gt;&lt;/p&gt;
 &lt;p&gt;&lt;img src=&#34;candy.png&#34; alt=&#34;alt text&#34;&gt;&lt;/p&gt;
  - http://localhost:1313/posts/charlotte/ - </description>
+    </item>
+    <item>
+      <title>Attemping to Predict the Value of Bitcoin</title>
+      <link>http://localhost:1313/posts/bitcoin_prediction/</link>
+      <pubDate>Mon, 23 Mar 2026 14:29:33 -0400</pubDate>
+      <guid>http://localhost:1313/posts/bitcoin_prediction/</guid>
+      <description>George&#39;s Journal http://localhost:1313/posts/bitcoin_prediction/ - &lt;h1 id=&#34;preface&#34;&gt;Preface&lt;/h1&gt;
+&lt;h1 id=&#34;the-actual-process&#34;&gt;The actual process!&lt;/h1&gt;
+&lt;h2 id=&#34;setting-up-the-data&#34;&gt;Setting up the data&lt;/h2&gt;
+&lt;p&gt;I found this website called &amp;ldquo;CoinDesk&amp;rdquo;, which was a price data tracker for many cryptocurrencies, such as Bitcoin! This website actually has an &amp;ldquo;API call preview&amp;rdquo; &lt;em&gt;with parameters&lt;/em&gt; on the documentation, so it was much easier to implement the output in my program!&lt;/p&gt;
+&lt;p&gt;&lt;img src=&#34;website.png&#34; alt=&#34;&#34;&gt;
+&lt;em&gt;What the API call preview looks like!&lt;/em&gt;&lt;/p&gt;
+&lt;p&gt;Here&amp;rsquo;s what I basically did:&lt;/p&gt;
+&lt;div class=&#34;highlight&#34;&gt;&lt;pre tabindex=&#34;0&#34; style=&#34;color:#f8f8f2;background-color:#272822;-moz-tab-size:4;-o-tab-size:4;tab-size:4;-webkit-text-size-adjust:none;&#34;&gt;&lt;code class=&#34;language-Python&#34; data-lang=&#34;Python&#34;&gt;&lt;span style=&#34;display:flex;&#34;&gt;&lt;span&gt;url &lt;span style=&#34;color:#f92672&#34;&gt;=&lt;/span&gt; &lt;span style=&#34;color:#e6db74&#34;&gt;&amp;#34;https://min-api.cryptocompare.com/data/v2/histoday?fsym=BTC&amp;amp;tsym=USD&amp;amp;aggregate=1&amp;amp;limit=1&amp;amp;allData=true&amp;amp;api_key=*******************************&amp;#34;&lt;/span&gt;
+&lt;/span&gt;&lt;/span&gt;&lt;span style=&#34;display:flex;&#34;&gt;&lt;span&gt;
+&lt;/span&gt;&lt;/span&gt;&lt;span style=&#34;display:flex;&#34;&gt;&lt;span&gt;page &lt;span style=&#34;color:#f92672&#34;&gt;=&lt;/span&gt; requests&lt;span style=&#34;color:#f92672&#34;&gt;.&lt;/span&gt;get(url)
+&lt;/span&gt;&lt;/span&gt;&lt;span style=&#34;display:flex;&#34;&gt;&lt;span&gt;data &lt;span style=&#34;color:#f92672&#34;&gt;=&lt;/span&gt; page&lt;span style=&#34;color:#f92672&#34;&gt;.&lt;/span&gt;json()[&lt;span style=&#34;color:#e6db74&#34;&gt;&amp;#39;Data&amp;#39;&lt;/span&gt;][&lt;span style=&#34;color:#e6db74&#34;&gt;&amp;#39;Data&amp;#39;&lt;/span&gt;]
+&lt;/span&gt;&lt;/span&gt;&lt;span style=&#34;display:flex;&#34;&gt;&lt;span&gt;df &lt;span style=&#34;color:#f92672&#34;&gt;=&lt;/span&gt; pd&lt;span style=&#34;color:#f92672&#34;&gt;.&lt;/span&gt;DataFrame(data)
+&lt;/span&gt;&lt;/span&gt;&lt;span style=&#34;display:flex;&#34;&gt;&lt;span&gt;
+&lt;/span&gt;&lt;/span&gt;&lt;span style=&#34;display:flex;&#34;&gt;&lt;span&gt;df[&lt;span style=&#34;color:#e6db74&#34;&gt;&amp;#34;time&amp;#34;&lt;/span&gt;] &lt;span style=&#34;color:#f92672&#34;&gt;=&lt;/span&gt; [datetime&lt;span style=&#34;color:#f92672&#34;&gt;.&lt;/span&gt;datetime&lt;span style=&#34;color:#f92672&#34;&gt;.&lt;/span&gt;fromtimestamp(time) &lt;span style=&#34;color:#66d9ef&#34;&gt;for&lt;/span&gt; time &lt;span style=&#34;color:#f92672&#34;&gt;in&lt;/span&gt; df[&lt;span style=&#34;color:#e6db74&#34;&gt;&amp;#34;time&amp;#34;&lt;/span&gt;]]
+&lt;/span&gt;&lt;/span&gt;&lt;span style=&#34;display:flex;&#34;&gt;&lt;span&gt;df
+&lt;/span&gt;&lt;/span&gt;&lt;/code&gt;&lt;/pre&gt;&lt;/div&gt;&lt;p&gt;&lt;em&gt;The API key is censored for safety.&lt;/em&gt;&lt;/p&gt;
+&lt;p&gt;I took the URL and extracted the historical data of the daily value of Bitcoin from the JSON! The time was in UNIX Epoch, so I had to convert it into more human-readable time.&lt;/p&gt;
+&lt;p&gt;The parameters (from the URL):&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;fsym: the cryptocurrency you are interested in&lt;/li&gt;
+&lt;li&gt;tsym: the currency you want to convert the crptocurrency into&lt;/li&gt;
+&lt;li&gt;aggregate: the number of days you want to aggregate the data into one data point&lt;/li&gt;
+&lt;li&gt;limit: the number of data points you want to return&lt;/li&gt;
+&lt;li&gt;allData: Returns all data&lt;/li&gt;
+&lt;/ul&gt;
+&lt;p&gt;So far, this isn&amp;rsquo;t too bad. I basically called the data from an API and converted it into a pandas DataFrame!&lt;/p&gt;
+&lt;p&gt;Making a quick data visualization:&lt;/p&gt;
+&lt;div class=&#34;highlight&#34;&gt;&lt;pre tabindex=&#34;0&#34; style=&#34;color:#f8f8f2;background-color:#272822;-moz-tab-size:4;-o-tab-size:4;tab-size:4;-webkit-text-size-adjust:none;&#34;&gt;&lt;code class=&#34;language-Py&#34; data-lang=&#34;Py&#34;&gt;&lt;span style=&#34;display:flex;&#34;&gt;&lt;span&gt;fig, ax &lt;span style=&#34;color:#f92672&#34;&gt;=&lt;/span&gt; plt&lt;span style=&#34;color:#f92672&#34;&gt;.&lt;/span&gt;subplots()
+&lt;/span&gt;&lt;/span&gt;&lt;span style=&#34;display:flex;&#34;&gt;&lt;span&gt;ax&lt;span style=&#34;color:#f92672&#34;&gt;.&lt;/span&gt;plot(df[&lt;span style=&#34;color:#e6db74&#34;&gt;&amp;#34;time&amp;#34;&lt;/span&gt;], df[&lt;span style=&#34;color:#e6db74&#34;&gt;&amp;#34;high&amp;#34;&lt;/span&gt;], color &lt;span style=&#34;color:#f92672&#34;&gt;=&lt;/span&gt; &lt;span style=&#34;color:#e6db74&#34;&gt;&amp;#34;green&amp;#34;&lt;/span&gt;)
+&lt;/span&gt;&lt;/span&gt;&lt;span style=&#34;display:flex;&#34;&gt;&lt;span&gt;
+&lt;/span&gt;&lt;/span&gt;&lt;span style=&#34;display:flex;&#34;&gt;&lt;span&gt;plt&lt;span style=&#34;color:#f92672&#34;&gt;.&lt;/span&gt;xlabel(&lt;span style=&#34;color:#e6db74&#34;&gt;&amp;#34;Years&amp;#34;&lt;/span&gt;)
+&lt;/span&gt;&lt;/span&gt;&lt;span style=&#34;display:flex;&#34;&gt;&lt;span&gt;plt&lt;span style=&#34;color:#f92672&#34;&gt;.&lt;/span&gt;ylabel(&lt;span style=&#34;color:#e6db74&#34;&gt;&amp;#34;The Value of One Bitcoin in USD&amp;#34;&lt;/span&gt;)
+&lt;/span&gt;&lt;/span&gt;&lt;span style=&#34;display:flex;&#34;&gt;&lt;span&gt;plt&lt;span style=&#34;color:#f92672&#34;&gt;.&lt;/span&gt;title(&lt;span style=&#34;color:#e6db74&#34;&gt;&amp;#34;The value of Bitcoin from 2010-Present&amp;#34;&lt;/span&gt;)
+&lt;/span&gt;&lt;/span&gt;&lt;/code&gt;&lt;/pre&gt;&lt;/div&gt;&lt;p&gt;&lt;img src=&#34;chart1.png&#34; alt=&#34;alt text&#34;&gt;&lt;/p&gt;
+&lt;h2 id=&#34;figuring-out-what-model-to-use-the-hard-part&#34;&gt;Figuring out what model to use (the hard part)&lt;/h2&gt;
+ - http://localhost:1313/posts/bitcoin_prediction/ - </description>
     </item>
     <item>
       <title>My first Chess Tournament!</title>
@@ -562,11 +651,18 @@ This is setting up for the Portuguese Gambit if I play the natural move 4. f3. T
       <pubDate>Fri, 20 Mar 2026 13:31:08 -0400</pubDate>
       <guid>http://localhost:1313/about/</guid>
       <description>George&#39;s Journal http://localhost:1313/about/ - &lt;h2 id=&#34;introduction&#34;&gt;Introduction&lt;/h2&gt;
-&lt;p&gt;Hii, my name is George Phung (he/him), I&amp;rsquo;m 20 years old, and I am studying Computational Modelling and Data Analytics (CMDA) at Virginia Tech! I&amp;rsquo;m currently doing research under Dr. Anne Brown at DataBridge, some projects that I did were:&lt;/p&gt;
+&lt;p&gt;Hii! My name is George Phung (he/him), I&amp;rsquo;m 20 years old, and I am studying Computational Modelling and Data Analytics (CMDA) at Virginia Tech! I&amp;rsquo;m currently doing research under Dr. Anne Brown at DataBridge, some projects that I did were:&lt;/p&gt;
 &lt;ul&gt;
 &lt;li&gt;Researched various antimicrobial peptides and compared their effectiveness against methanogens produced by cows&lt;/li&gt;
 &lt;li&gt;Built a machine-learning model for predicting MMGBSA binding energy against four Zika virus protein proteases&lt;/li&gt;
 &lt;li&gt;Extracted data from a PDF of medical school credit transfer agreements and performed some preliminary analysis on it&lt;/li&gt;
+&lt;/ul&gt;
+&lt;h2 id=&#34;backgroundaccomplishments&#34;&gt;Background/Accomplishments&lt;/h2&gt;
+&lt;p&gt;Some interesting things I did:&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;Played violin for 6 years&lt;/li&gt;
+&lt;li&gt;Achieved a first degree black belt in taekwondo&lt;/li&gt;
+&lt;li&gt;Placed top 25 (out of 20,218) in the Hypixel Turbo Kart Racers 2nd iteration tournament&lt;/li&gt;
 &lt;/ul&gt;
 &lt;h2 id=&#34;hobbies&#34;&gt;Hobbies&lt;/h2&gt;
 &lt;p&gt;In my free time, I like to:&lt;/p&gt;
