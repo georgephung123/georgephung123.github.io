@@ -59,4 +59,4 @@ plt.title("The value of Bitcoin from 2010-Present")
 
 ## Figuring out what model to use (the hard part)
 
-Since we are trying to predict
+Since we are trying to predict a value, we will be using some sort of supervised regression model, but we can't use any generic model as a major constraint is that there are timedates, we have to make a model that is contingent on the datetime.

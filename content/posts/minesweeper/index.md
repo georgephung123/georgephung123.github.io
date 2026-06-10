@@ -92,4 +92,6 @@ The pink tiles highlighted indicate that there is one mine in either of the two 
 
 Under the hood, NG Minesweeper has invisible solvers where it moves mines around automatically to mitigate the 50/50 guesses. It does take out the aspect of guessing in minesweeper, which is actually much more advanced and deep than what you might expect guessing to be. 
 
-I was already faced with this dilemma of either picking standard or NG to do most of my attempts on. I opted to measure my final results using the standard mode as most Minesweeper players play that mode, as the element of guessing is vital to the game.
+I was already faced with this dilemma of either picking standard or NG to measure my final results on. I opted to measure my final results using the standard mode as most Minesweeper players play that mode, as the element of guessing is vital to the game.
+
+# Beginnings

@@ -67,7 +67,8 @@
 &lt;p&gt;&lt;em&gt;Source: &lt;a href=&#34;https://minesweepergame.com/strategy/guessing.php&#34;&gt;https://minesweepergame.com/strategy/guessing.php&lt;/a&gt;&lt;/em&gt;&lt;/p&gt;
 &lt;p&gt;The pink tiles highlighted indicate that there is one mine in either of the two tiles, but there is no way to find out &lt;em&gt;which&lt;/em&gt; pink tile it&amp;rsquo;s in without guessing, making it a &amp;ldquo;50/50&amp;rdquo; guess.&lt;/p&gt;
 &lt;p&gt;Under the hood, NG Minesweeper has invisible solvers where it moves mines around automatically to mitigate the 50/50 guesses. It does take out the aspect of guessing in minesweeper, which is actually much more advanced and deep than what you might expect guessing to be.&lt;/p&gt;
-&lt;p&gt;I was already faced with this dilemma of either picking standard or NG to do most of my attempts on. I opted to measure my final results using the standard mode as most Minesweeper players play that mode, as the element of guessing is vital to the game.&lt;/p&gt;
+&lt;p&gt;I was already faced with this dilemma of either picking standard or NG to measure my final results on. I opted to measure my final results using the standard mode as most Minesweeper players play that mode, as the element of guessing is vital to the game.&lt;/p&gt;
+&lt;h1 id=&#34;beginnings&#34;&gt;Beginnings&lt;/h1&gt;
  - http://localhost:1313/posts/minesweeper/ - </description>
     </item>
     <item>
@@ -363,7 +364,7 @@ I was actually feeling the exclamation mark to see if it was actually painted on
 &lt;/span&gt;&lt;/span&gt;&lt;span style=&#34;display:flex;&#34;&gt;&lt;span&gt;plt&lt;span style=&#34;color:#f92672&#34;&gt;.&lt;/span&gt;title(&lt;span style=&#34;color:#e6db74&#34;&gt;&amp;#34;The value of Bitcoin from 2010-Present&amp;#34;&lt;/span&gt;)
 &lt;/span&gt;&lt;/span&gt;&lt;/code&gt;&lt;/pre&gt;&lt;/div&gt;&lt;p&gt;&lt;img src=&#34;chart1.png&#34; alt=&#34;alt text&#34;&gt;&lt;/p&gt;
 &lt;h2 id=&#34;figuring-out-what-model-to-use-the-hard-part&#34;&gt;Figuring out what model to use (the hard part)&lt;/h2&gt;
-&lt;p&gt;Since we are trying to predict&lt;/p&gt;
+&lt;p&gt;Since we are trying to predict a value, we will be using some sort of supervised regression model, but we can&amp;rsquo;t use any generic model as a major constraint is that there are timedates, we have to make a model that is contingent on the datetime.&lt;/p&gt;
  - http://localhost:1313/posts/bitcoin_prediction/ - </description>
     </item>
     <item>
