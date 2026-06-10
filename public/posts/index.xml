@@ -6,14 +6,14 @@
     <description>Recent content in Posts on George&#39;s Journal</description>
     <generator>Hugo</generator>
     <language>en-us</language>
-    <lastBuildDate>Mon, 08 Jun 2026 23:21:08 -0400</lastBuildDate>
+    <lastBuildDate>Tue, 09 Jun 2026 00:32:37 -0400</lastBuildDate>
     <atom:link href="http://localhost:1313/posts/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>How good can I get at Minesweeper in 24 hours?</title>
       <link>http://localhost:1313/posts/minesweeper/</link>
       <pubDate>Mon, 08 Jun 2026 23:21:08 -0400</pubDate>
       <guid>http://localhost:1313/posts/minesweeper/</guid>
-      <description></description>
+      <description>&lt;h1 id=&#34;background&#34;&gt;Background&lt;/h1&gt;&#xA;&lt;h2 id=&#34;rulesobjective&#34;&gt;Rules/Objective&lt;/h2&gt;&#xA;&lt;p&gt;Minesweeper is a video game where it features a grid of tiles you can click on, some of which have hidden mines. The objective is to click on all of the non-mine tiles. The revealed tiles will have a number that represents the corresponding number of mines adjacent to that tile. To lose the game, it&amp;rsquo;s relatively simple; click on a tile with a hidden mine!&lt;/p&gt;&#xA;&lt;p&gt;Let&amp;rsquo;s do a quick example if you do not know the rules already:&lt;/p&gt;</description>
     </item>
     <item>
       <title>Charlotte, NC</title>

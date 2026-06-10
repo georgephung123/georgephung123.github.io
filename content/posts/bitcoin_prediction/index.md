@@ -58,3 +58,5 @@ plt.title("The value of Bitcoin from 2010-Present")
 ![alt text](chart1.png)
 
 ## Figuring out what model to use (the hard part)
+
+Since we are trying to predict
