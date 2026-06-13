@@ -46,7 +46,7 @@ The parameters (from the URL):
 So far, this isn't too bad. I basically called the data from an API and converted it into a pandas DataFrame!
 
 Making a quick data visualization:
-``` Py
+``` py
 fig, ax = plt.subplots()
 ax.plot(df["time"], df["high"], color = "green")
 

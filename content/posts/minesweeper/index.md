@@ -95,3 +95,4 @@ Under the hood, NG Minesweeper has invisible solvers where it moves mines around
 I was already faced with this dilemma of either picking standard or NG to measure my final results on. I opted to measure my final results using the standard mode as most Minesweeper players play that mode, as the element of guessing is vital to the game.
 
 # Beginnings
+
