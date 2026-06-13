@@ -6,8 +6,15 @@
     <description>Recent content in Travel on George&#39;s Journal</description>
     <generator>Hugo</generator>
     <language>en-us</language>
-    <lastBuildDate>Thu, 07 May 2026 18:58:37 -0400</lastBuildDate>
+    <lastBuildDate>Sat, 13 Jun 2026 16:11:23 -0400</lastBuildDate>
     <atom:link href="http://localhost:1313/categories/travel/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>somd travel</title>
+      <link>http://localhost:1313/posts/southern_maryland/</link>
+      <pubDate>Sat, 13 Jun 2026 16:11:23 -0400</pubDate>
+      <guid>http://localhost:1313/posts/southern_maryland/</guid>
+      <description></description>
+    </item>
     <item>
       <title>Charlotte, NC</title>
       <link>http://localhost:1313/posts/charlotte/</link>

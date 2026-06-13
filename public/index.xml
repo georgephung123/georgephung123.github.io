@@ -8,8 +8,19 @@
     </description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
-    <lastBuildDate>Mon, 08 Jun 2026 23:21:08 -0400</lastBuildDate>
+    <lastBuildDate>Sat, 13 Jun 2026 16:11:23 -0400</lastBuildDate>
     <atom:link href="http://localhost:1313/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>somd travel</title>
+      <link>http://localhost:1313/posts/southern_maryland/</link>
+      <pubDate>Sat, 13 Jun 2026 16:11:23 -0400</pubDate>
+      <guid>http://localhost:1313/posts/southern_maryland/</guid>
+      <description>George&#39;s Journal http://localhost:1313/posts/southern_maryland/ - &lt;h1 id=&#34;introduction&#34;&gt;Introduction&lt;/h1&gt;
+&lt;h1 id=&#34;st-inies-coffee&#34;&gt;St. Inie&amp;rsquo;s Coffee&lt;/h1&gt;
+&lt;p&gt;Easily one of the best coffee shops you can find in Lexington Park.&lt;/p&gt;
+&lt;p&gt;&lt;img src=&#34;image.png&#34; alt=&#34;alt text&#34;&gt;&lt;/p&gt;
+ - http://localhost:1313/posts/southern_maryland/ - </description>
+    </item>
     <item>
       <title>How good can I get at Minesweeper in 24 hours?</title>
       <link>http://localhost:1313/posts/minesweeper/</link>
@@ -356,7 +367,7 @@ I was actually feeling the exclamation mark to see if it was actually painted on
 &lt;/ul&gt;
 &lt;p&gt;So far, this isn&amp;rsquo;t too bad. I basically called the data from an API and converted it into a pandas DataFrame!&lt;/p&gt;
 &lt;p&gt;Making a quick data visualization:&lt;/p&gt;
-&lt;div class=&#34;highlight&#34;&gt;&lt;pre tabindex=&#34;0&#34; style=&#34;color:#f8f8f2;background-color:#272822;-moz-tab-size:4;-o-tab-size:4;tab-size:4;-webkit-text-size-adjust:none;&#34;&gt;&lt;code class=&#34;language-Py&#34; data-lang=&#34;Py&#34;&gt;&lt;span style=&#34;display:flex;&#34;&gt;&lt;span&gt;fig, ax &lt;span style=&#34;color:#f92672&#34;&gt;=&lt;/span&gt; plt&lt;span style=&#34;color:#f92672&#34;&gt;.&lt;/span&gt;subplots()
+&lt;div class=&#34;highlight&#34;&gt;&lt;pre tabindex=&#34;0&#34; style=&#34;color:#f8f8f2;background-color:#272822;-moz-tab-size:4;-o-tab-size:4;tab-size:4;-webkit-text-size-adjust:none;&#34;&gt;&lt;code class=&#34;language-py&#34; data-lang=&#34;py&#34;&gt;&lt;span style=&#34;display:flex;&#34;&gt;&lt;span&gt;fig, ax &lt;span style=&#34;color:#f92672&#34;&gt;=&lt;/span&gt; plt&lt;span style=&#34;color:#f92672&#34;&gt;.&lt;/span&gt;subplots()
 &lt;/span&gt;&lt;/span&gt;&lt;span style=&#34;display:flex;&#34;&gt;&lt;span&gt;ax&lt;span style=&#34;color:#f92672&#34;&gt;.&lt;/span&gt;plot(df[&lt;span style=&#34;color:#e6db74&#34;&gt;&amp;#34;time&amp;#34;&lt;/span&gt;], df[&lt;span style=&#34;color:#e6db74&#34;&gt;&amp;#34;high&amp;#34;&lt;/span&gt;], color &lt;span style=&#34;color:#f92672&#34;&gt;=&lt;/span&gt; &lt;span style=&#34;color:#e6db74&#34;&gt;&amp;#34;green&amp;#34;&lt;/span&gt;)
 &lt;/span&gt;&lt;/span&gt;&lt;span style=&#34;display:flex;&#34;&gt;&lt;span&gt;
 &lt;/span&gt;&lt;/span&gt;&lt;span style=&#34;display:flex;&#34;&gt;&lt;span&gt;plt&lt;span style=&#34;color:#f92672&#34;&gt;.&lt;/span&gt;xlabel(&lt;span style=&#34;color:#e6db74&#34;&gt;&amp;#34;Years&amp;#34;&lt;/span&gt;)
