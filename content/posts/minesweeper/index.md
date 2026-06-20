@@ -96,3 +96,30 @@ I was already faced with this dilemma of either picking standard or NG to measur
 
 # Beginnings
 
+I started my first few games on the beginner mode board, a 9x9 board with only ten mines, with no guides or tips at all. I was able to solve some, but I noticed right away that I spend an obscene amount of time on the 50/50 guesses. I think it's more on determining *if* it's a 50/50 guess and figuring out if logic can solve it rather than guessing.
+
+I did around 40 attempts, and my best time was just over 21 seconds with zero prior knowledge!
+![alt text](image-14.png)
+
+Now that I was familiar on how the game works, I looked up a guide on YouTube and stumbled upon this video:
+
+![alt text](image-15.png)
+*https://www.youtube.com/watch?v=ytKOmS8vJng*
+
+The guide talked about many useful things such as patterns and luck, but the game-changing technique was chording.
+
+## TODO: EXPLAIN WHAT CHORDING IS
+
+Using the new profound knowledge, I went back to doing attempts on the beginner board, mainly to get used to chording and recognizing common patterns.
+
+After around 20 minutes of attempts, this was my best run so far.
+![alt text](image-17.png)
+
+During my attempts, I noticed that despite me knowing the solutions of common patterns, I wasn't *applying* that knowledge during my runs at all. I was thinking instead of knowing the patterns, which wastes time. 
+
+I researched more about patterns, and I found this neat website.
+
+![alt text](image-18.png)
+*https://minesweepergame.com/strategy/patterns.php*
+
+I think the major difference between this website and the video I watched is that the video simply threw the viewer a bunch of patterns to figure out, while this website builds off a *fundemental*, yet easy pattern to follow. I then practiced again, but this time I took my time to recognize the two patterns shown above and know the solutions to it.
