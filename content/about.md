@@ -24,7 +24,7 @@ Some interesting things I did:
 ## Hobbies
 
 In my free time, I like to:
-- Play chess - My favorite opening is the Marshall Gambit in the Ruy Lopez, peaked around 1800 at bullet on chess.com
+- Play chess - Peaked around 1800 at bullet on chess.com
 - Run - My 5k PR is 31:55
 - Workout - I mainly do low-impact workouts
 - Speedrun Celeste - My any% PB is around 32 minutes
