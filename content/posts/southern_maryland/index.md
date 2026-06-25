@@ -51,11 +51,13 @@ The walk there was really pleasant; I think the fact that there were the little 
 
 # St. Mary's Lake
 
-There's a nice lake in the St. Mary's River Park, I went there one weekend as I had an itch for hiking.
+There's a nice lake in the St. Mary's River Park, I went there one weekend as I had an itch for hiking. It wasn't too far from where I was staying, but it did cost 5 dollars to enter for me.
 
 ![alt text](image-9.png)
 
 It featured a 7.5 mile hike, named the "White Blazes", which is basically one giant loop around the lake. Throughout my hike, there was many instances where the trail split into two different paths, I just so happen to always pick the left-most path and it just so happen to work out for me!
+
+![alt text](image-15.png)
 
 I was definitely underprepared for this hike; I only brought a baseball cap, a water bottle, my phone, and my battery pack (with no backpack). I also did not apply any bug spray or sunscreen, to which I come to regret later during the hike. The hike itself wasn't too strenuous, there were only a few climbs and drops, but had many great views!
 
@@ -71,7 +73,20 @@ I was definitely underprepared for this hike; I only brought a baseball cap, a w
 
 The wind softly nudged the trees, giving off the rustling sound of a thousand books gently turning, while the breeze brushed lightly against my skin. Combined with the late morning sunlight peeking through the tall trees and the mating calls of the Mourning Doves, the hike felt very cozy and relaxing. It's quite interesting how the Mourning Doves' calls has a universal experience for invoking nostalgia. Around 15 years ago, my mother used to take my sister and I to Maymont Park, a famous park in Richmond. I vaguely remember my mother pushing my sister's stroller while I followed my mother around the park, full of curiosity with the enviroment. 
 
-near end
+![alt text](image-16.png)
+
+![alt text](image-17.png)
+
+![alt text](image-18.png)
+
+![alt text](image-19.png)
+
+![alt text](image-20.png)
+
+Near the six mile mark is when the exhaustion began to catch up to me, I was already annoyed from the bugs bugging me and I had used up most of my celluar data there as well. 
+
+I did make it to the end however!
 ![alt text](image-10.png)
+
 
 # Patuxent River Air Show
