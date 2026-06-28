@@ -14,7 +14,7 @@ Hii! My name is George Phung (he/him), I'm 20 years old, and I am studying Compu
 - Built a machine-learning model for predicting MMGBSA binding energy against four Zika virus protein proteases 
 - Extracted data from a PDF of medical school credit transfer agreements and performed some preliminary analysis on it
 
-## Background/Accomplishments
+## Background
 
 Some interesting things I did:
 - Played violin for 6 years
@@ -39,6 +39,6 @@ Some of my favorite artists:
 
 You can find my blog documenting my travels, my personal achievements, my projects, or anything interesting that happens!
 
-If you would like to receive updates whenever I post, you can subscribe via my [RSS feed](/index.xml) — just put the link into any RSS reader like Thunderbird or RSS Feed Reader. 
+If you would like to receive updates whenever I post, you can subscribe via my [RSS feed](/index.xml), just put the link into any RSS reader like Thunderbird or RSS Feed Reader. 
 
 ![burgy](/images/burgy.png)

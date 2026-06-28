@@ -4,11 +4,11 @@ locale = 'en-us'
 title = "George's Journal"
 theme = "diary"
 enableGitInfo = true
-enableGiscus = true
 # -----
 [params]
 subtitle = "George Phung's Blog"
 favicon = "/favicon/favicon.ico"
+enableGiscus = true
 
     [params.giscus]
         data_repo="georgephung123/georgephung123.github.io"
