@@ -65,7 +65,6 @@ I was definitely underprepared for this hike; I only brought a baseball cap, a w
 *The lake also featured a boat launching site, which I found to be pretty neat.*
 
 ![alt text](image-12.png)
-*Excuse the bad quality*
 
 ![alt text](image-13.png)
 
@@ -85,8 +84,50 @@ The wind softly nudged the trees, giving off the rustling sound of a thousand bo
 
 Near the six mile mark is when the exhaustion began to catch up to me, I was already annoyed from the bugs bugging me and I had used up most of my celluar data there as well. 
 
-I did make it to the end however!
+I did make it to the end however, but I was exhasuted. This was by far the longest hike I did, totaling to around 17 thousand steps in three hours.
 ![alt text](image-10.png)
 
 
 # Patuxent River Air Show
+
+This was my very first airshow I've been to, and it wasn't too far from where I lived. I had actually volunteered to help set up one of the booths there the Thursday before the airshow, and I got to see the Blue Angels take off with my own pair of eyes. Full of awe and amazement, I stopped what I was doing and spent a solid five minutes watching the Blue Angels fly in the sky, easily one of the coolest things I've seen in my life.
+
+I went there on that Saturday, the gates opened at 9AM and the actual air show started at around noon. I entered the military base just after ten, and the traffic was already horrific. It was only a mile drive from the entrance to the designated parking lot, but it took a solid 45 minutes to get there. I was bored out of my mind, but I had a nice conversation with my mother to pass the time.
+
+We had a solid hour to kill, so I explored around the venue. It definitely felt a bit like an outdoor fair, there were many booths to explore around, food was abundant but expensive, and there were free products to get.
+
+![alt text](image-22.png)
+
+![alt text](image-21.png)
+
+![alt text](image-23.png)
+
+![alt text](image-24.png)
+
+![alt text](image-25.png)
+
+That's enough exploring for now, let the show begin!
+
+*Excuse the bad quality of the pictures in this section*
+
+![alt text](image-26.png)
+
+![alt text](image-27.png)
+
+![alt text](image-30.png)
+
+The USNA Jump Team opened the airshow. First, someone jumped out of a military plane with an while displaying an American flag proudly, I actually got to shake his hand when he landed, which was a massive honor for me!
+
+Eight more jumpers came out of the plane with their own unique parachutes, which is pretty neat.
+
+![alt text](image-28.png)
+
+After they all landed, they passed out some stickers about their team, which I have proudly on my laptop.
+
+![alt text](image-29.png)
+## WORK MORE LATER
+
+# Newtowne Neck State Park 
+
+A very nice park, featuring a two mile trail and several small beaches. This is probably my favorite place to go in Southern Maryland, not many people are aware of this treasure. There's hardly any trash compared to other more popular beaches such as Solomons or Point Lookout, preserving the natural beauty of the beach.
+
