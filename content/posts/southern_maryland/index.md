@@ -106,6 +106,8 @@ We had a solid hour to kill, so I explored around the venue. It definitely felt 
 
 ![alt text](image-25.png)
 
+![alt text](image-31.png)
+
 That's enough exploring for now, let the show begin!
 
 *Excuse the bad quality of the pictures in this section*
@@ -125,6 +127,47 @@ Eight more jumpers came out of the plane with their own unique parachutes, which
 After they all landed, they passed out some stickers about their team, which I have proudly on my laptop.
 
 ![alt text](image-29.png)
+
+The F-16 flew next, I actually got to see it peform its checks before takeoff. It was pretty interesting seeing the person in front of the plane doing the seemingly random arm movements.
+
+![alt text](image-34.png)
+
+![alt text](image-32.png)
+
+The F-16 was the first plane in the airshow to make a considerable amount of noise. it moves unbelievably quickly, it can reach up to speeds up two Mach two, twice the speed of sound. Of course, it was going nowhere near that speed during the airshow, only reaching speeds of up to 0.9 Mach As once a jet crosses Mach 1, a sonic boom will occur, which are loud enough crack car windows.
+
+I had to cover my ears when it came near me, some people had ear protection headphones which I thought would be nice to have.
+
+![alt text](image-33.png)
+
+Next came a military plane:
+
+![alt text](image-35.png)
+
+![alt text](image-36.png)
+
+Fun!
+
+Next came the Patrouille Acrobatique de France, a precision aerobatics demonstration unit of the French Air and Space Force. Officially commissioned in 1953, they are a group of nine pilots flying the Alpha Jet.
+
+This was very likely my favorite part of the entire airshow, the colors matched up very well with each other along with the tricks they did!
+
+![alt text](image-37.png)
+
+![alt text](image-38.png)
+
+![alt text](image-39.png)
+
+![alt text](image-40.png)
+
+![alt text](image-41.png)
+
+![alt text](image-42.png)
+
+![alt text](image-44.png)
+*Exceptional picture.*
+
+Finally, came the Blue Angels. It's perhaps the most well known Navy flight fleet in the US, it performs annualy at 32 locations all over the US and Canada.
 ## WORK MORE LATER
 
 # Newtowne Neck State Park 
