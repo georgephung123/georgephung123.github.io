@@ -168,7 +168,23 @@ This was very likely my favorite part of the entire airshow, the colors matched 
 *Exceptional picture.*
 
 Finally, came the Blue Angels. It's perhaps the most well known Navy flight fleet in the US, it performs annualy at 32 locations all over the US and Canada.
-## WORK MORE LATER
+
+![alt text](image-45.png)
+
+![alt text](image-46.png)
+
+![alt text](image-47.png)
+
+![alt text](image-48.png)
+
+They took off as a group of four first, then the last two took out seperately.
+
+We actually left a little early to beat the traffic, the Blue Angels flying over us got old relatively quick. It definitely paid off, there was barely any traffic when leaving unlike entering, which took forever.
+
+Overall, this felt like a "one and done" activity, completing an activity once without wanting to do it again. It was extremely cool watching the aircraft fly over us, it will most certainly inspire future pilots and engineers in the future!
+
+![alt text](image-49.png)
+*Despite the ear piercing noises, my sister slept through it perfectly fine.*
 
 # Newtowne Neck State Park 
 
