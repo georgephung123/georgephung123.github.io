@@ -1,43 +1,22 @@
 ---
-date: 2026-06-13T16:11:23-04:00
-description: "placeholder"
-# featured_image: "/images/minesweeper.png"
-title: "somd travel"
+date: 2026-07-26T11:08:15-04:00
+description: "I was given the opportunity to spend some time down in Southern Maryland, here is what I did!"
+featured_image: "/images/pathway.png"
+title: "Exploring Around in Southern Maryland"
 categories: ["Travel"]
-Draft: True
+Draft: False
 ---
 # Introduction
 
+I got to spend some time in Southern Maryland recently, so here's what I did!
 
-# St. Inie's Coffee
+# John G. Lancaster Park
 
-Easily one of the best coffee shops you can find in Lexington Park. It's basically a coffee shop and a bookstore connected in one building, and the books were locally donated. There is also a children's room on the other side of the coffee shop as well!
-
-I ordered an iced matcha latte because caffeine does nothing to me and I do not like the taste of coffee. They actually served my drinks in a little mason jar which I found to be pretty cute!
-
-The enviroment of the bookstore was extremely cozy, it featured many coffee tables, a chess board, some couches, and several shelves filled with books on the perimeter.
-![alt text](image.png)
-
-![alt text](image-1.png)
-
-I was reading a book titled *Switch* by Chip Heath while at the bookstore. The book is about why humans are resistant to change and breaks it down. In the book, it discusses three components of a system:
-
-The Rider, it's logical part of how you think.
-
-The Elephant, it's the emotinal part of you.
-
-The Path, it both controls how the Rider and the Elephant moves/
-
-## TODO: ADD MORE DETAILS ABOUT THE BOOK
-
-There was actually a nice little path right outside of the parking lot that leads into a park, named the John G. Lancaster Park.
-
+I was at a coffee shop, and there was actually a nice little path right outside of the parking lot that leads into a park, named the John G. Lancaster Park.
 
 ![alt text](image-2.png)
 
 ![alt text](image-8.png)
-
-![alt text](image-3.png)
 
 ![alt text](image-4.png)
 
@@ -48,6 +27,8 @@ There was actually a nice little path right outside of the parking lot that lead
 ![alt text](image-7.png)
 
 The walk there was really pleasant; I think the fact that there were the little drawings on the path made it much more calmer and safer.
+
+I often did my runs there, it felt relatively safe and peaceful, especially in the mornings.
 
 # St. Mary's Lake
 
@@ -190,3 +171,72 @@ Overall, this felt like a "one and done" activity, completing an activity once w
 
 A very nice park, featuring a two mile trail and several small beaches. This is probably my favorite place to go in Southern Maryland, not many people are aware of this treasure. There's hardly any trash compared to other more popular beaches such as Solomons or Point Lookout, preserving the natural beauty of the beach.
 
+![alt text](image-50.png)
+
+The park is split up into many sections of beaches, seperated by the ends of each beaches curve.
+
+![alt text](image-51.png)
+
+![alt text](image-52.png)
+
+![alt text](image-53.png)
+
+Now unforunately, since this beach is based off the Potomac River, jellyfish are prone to appear.
+
+![alt text](image-54.png)
+
+By far the most common is the bay nettle, they are common in the summer months and the stings are mildly painful. I understood that risk before going into the water, .... and I got stung!
+
+Thankfully it wasn't too painful, the stinging burn only lasted for around 15 minutes but I didn't go back into the water for the rest of the day.
+
+![alt text](image-56.png)
+*Credit: Cody Boteler/The Baltimore Banner*
+
+I was reading a book titled *Switch* by Chip Heath while at the beach. The book is about why humans are resistant to change and breaks it down. In the book, it discusses three components of a system:
+
+The Rider, the rational side of your mind. It plans, analyzes, and figures things out logically. A weakness is over-thinking, when things become unclear and nuanced, the rider stalls and makes zero progress.
+
+The Elephant, the emotional side of your mind. It provides the energy and motivation to move forward and change. Without the Elephant, the Rider alone can't make change no matter how logically sound it is.
+
+The Path, the actual enviroment that the Rider and Elephant is in. Even when the Rider and the Elephant are working together, a difficult enviroment can stop change in its tracks. Changing the Path means rewarding the right behavior and making bad behavior harder to perform.
+
+All three need to work together in order to create change, if one of the components fail then change cannot happen. 
+
+It's insightful as it breaks down a seemingly complex idea into a simple concept to follow through and understanding how to really motivate change. I could go on about the book more, but it's outside of the scope of this post.
+
+![alt text](image-57.png)
+
+![alt text](image-58.png)
+*Took this picture while walking my way back from the beach*
+
+Highly recommend, it's a relatively quiet place combined with the high level of cleaniness there.
+
+# Uncategorized Small Things
+
+I've done more smaller things down here, so here they are!
+
+I visted Leonardtown for a little bit, a very beautiful place to be at, albiet very small.
+
+![alt text](image-59.png)
+
+![alt text](image-60.png)
+
+![alt text](image-64.png)
+
+![alt text](image-63.png)
+
+I attended a CAD class!
+
+![alt text](image-65.png)
+
+![alt text](image-66.png)
+
+I also found another place that's by the Potomac River, great views out!
+
+![alt text](image-67.png)
+
+![alt text](image-68.png)
+
+![alt text](image-70.png)
+
+Overall, southern Maryland has alot to give in terms of exploring outside, but other than that, there isin't really that much to do there.

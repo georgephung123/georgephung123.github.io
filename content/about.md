@@ -8,7 +8,7 @@ title: "About me!"
 
 ## Introduction
 
-Hii! My name is George Phung (he/him), I'm 20 years old, and I am studying Computational Modelling and Data Analytics (CMDA) at Virginia Tech! I'm currently doing research under Dr. Anne Brown at DataBridge, some projects that I did were:
+Hii! My name is George Phung (he/him), I'm 20 years old, and I am studying Computational Modelling and Data Analytics (CMDA) at Virginia Tech! I'm currently doing research at a lab at Virgnia Tech, some projects that I did were:
 
 - Researched various antimicrobial peptides and compared their effectiveness against methanogens produced by cows
 - Built a machine-learning model for predicting MMGBSA binding energy against four Zika virus protein proteases 
@@ -32,7 +32,6 @@ In my free time, I like to:
 ## Music
 
 Some of my favorite artists:
-- Ed Sheeran - Favorite song: Perfect
 - Chevy - Favorite song: Gingerbread Lover
 - Ivoris - Favorite song: raincoat
 
