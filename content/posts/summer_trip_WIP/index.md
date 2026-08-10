@@ -89,7 +89,7 @@ A Costco.
 
 We bought food, water, and some sprays as it's likely it will be even more expensive to buy those items within Yellowstone, the prices at the Costco are already horrifically expensive.
 
-Here's some photos taken while driving to the hotel, located in Gardiner.
+Here's some photos taken while driving to the hotel next, located in Gardiner.
 
 ![alt text](image-17.png)
 
@@ -100,3 +100,101 @@ Here's some photos taken while driving to the hotel, located in Gardiner.
 ![alt text](image-21.png)
 
 Did you know that only nine states has a maximum speed limit of 80 miles per hour? Furthermore, Texas has a 41-mile toll highway that has a maximum speed limit of 85 miles per hour, the highest in the Western Hemisphere!
+
+It was around 4PM when we checked into the hotel, named "Absroka Lodge". It was nothing special, it had two beds, a mini fridge, and a microwave, generic hotel room. But, it did have a small balcony and this awesome view:
+
+![alt text](image-22.png)
+
+![alt text](image-23.png)
+
+I took a small break in the hotel room, as 14 hours of travelling made me just a *little* bit tired.
+
+Next up, my mother and I drove around a bit around Yellowstone to get a glimpse of what it will be like in the upcoming days.
+
+This is the Roosevelt Arch!
+
+![alt text](image-24.png)
+
+![alt text](image-25.png)
+
+Built in 1903, this marks the North entrance of the Yellowstone National Park.
+
+There's a whopping five entrances to Yellowstone: North, West, South, East, and Northeast; all of which have their own unique landmarks and attractions.
+
+![alt text](image-26.png)
+
+*Taken from https://www.yellowstone.co/entrances.htm*
+
+Entering Yellowstone is unfortunately not cheap. It was 35 dollars for one vehicle, and it was valid for seven days. Instead, I bought the "America the Beautiful" pass option, which was 80 bucks. With the that pass, you can enter into any national park in the US free of charge for a year, which I think is the better option. I can go to other national parks such as Shenandoah or New River Gorge. 
+
+![alt text](image-27.png)
+
+The first stop within Yellowstone was the Mammoth Hot Springs, which was a solid twenty minute drive despite it only being 5 miles from the arch. This is mainly becuase of the many small hills and drops, which made it scarier to drive around.
+
+![alt text](image-28.png)
+
+
+But we made it there eventually!
+
+![alt text](image-30.png)
+
+![alt text](image-31.png)
+*A rather interesting figure*
+
+![alt text](image-32.png)
+
+![alt text](image-33.png)
+
+The gradual walk up the springs was a little strenuous, it was a solid mile and a half with some decent elevation.
+
+![alt text](image-35.png)
+
+![alt text](image-37.png)
+
+![alt text](image-38.png)
+
+![alt text](image-39.png)
+
+![alt text](image-40.png)
+
+It was a pretty nice preview of what's going to be in Yellowstone in the upcoming days.
+
+![alt text](image-42.png)
+
+We went back to the hotel, and I worked on my blog then went to sleep. The internet was a little slow at times, but it didn't affect working on this blog post too much.
+
+# Day 2: idk work on this later
+
+Good morning!
+
+![alt text](image-43.png)
+
+The plan was to drive down to Norris Geyser, an hour from the North Entrance, then
+
+### work on later
+
+Yellowstone has these "pullouts" where it's like the scenic views on the highways; there are thousands of them all over the park and I certainly took advantage of some of them.
+
+![alt text](image-44.png)
+
+![alt text](image-45.png)
+
+## Norris Geyser add more context
+
+![alt text](image-56.png)
+
+![alt text](image-46.png)
+
+![alt text](image-47.png)
+
+![alt text](image-49.png)
+
+![alt text](image-51.png)
+
+![alt text](image-52.png)
+
+![alt text](image-53.png)
+
+![alt text](image-54.png)
+
+![alt text](image-55.png)
