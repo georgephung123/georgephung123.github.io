@@ -179,9 +179,13 @@ Yellowstone has these "pullouts" where it's like the scenic views on the highway
 
 ![alt text](image-45.png)
 
-## Norris Geyser add more context
+## Norris Geyser Basin
+
+The first stop of the day was at the Norris Geyser Basin, the oldest of Yellowstone's thermal areas.
 
 ![alt text](image-56.png)
+
+There were two main Basins, the Back and the Porcelain; we only had time to see the Porcelain Basin as it is the shorter route and is barren of trees.
 
 ![alt text](image-46.png)
 
@@ -197,4 +201,24 @@ Yellowstone has these "pullouts" where it's like the scenic views on the highway
 
 ![alt text](image-54.png)
 
-![alt text](image-55.png)
+![alt text](image-61.png)
+
+We actually had a little bit of extra time, so we checked out a bit of the Back Basin.
+
+The tallest geyser in the world, the Steamboat Geyser, was just a few blocks down, and it was pretty cool to see with my own pair of eyes. The explosions weren't that impressive during the time we came by, but you can't really ask for too much!
+
+![alt text](image-57.png)
+
+## Fountain Paint Pots
+
+Next stop is Fountain Paint Pots, a mud pot located in Lower Geyser Basin. It was a fourty minute drive from the Norris Geyser Basin, so not too far!
+
+![alt text](image-62.png)
+
+![alt text](image-63.png)
+
+![alt text](image-64.png)
+
+Nothing too special see here, felt more like a intermission to the next stop: the Grand Prismatic Spring.
+
+## Grand Prismatic Spring
