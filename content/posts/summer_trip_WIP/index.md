@@ -47,7 +47,7 @@ Despite this only being an hour long flight, the flight attendants came around w
 ![alt text](image-9.png)
 *Excuse the poor photo quality.*
 
-The plane landed at around five minutes before eight in Atlanta, and our next flight is scheduled to board at 8:10AM and departs at 8:50AM, barely an hour-long layover.
+The plane landed at around five minutes before eight in Atlanta, and our next flight was scheduled to board at 8:10AM and departs at 8:50AM, barely an hour-long layover.
 
 It wasn't too fun that our flight's gate was at a different terminal, and since this is the largest airport in the world, we had to take the subway and our gate was at the very end of the terminal as well. :)
 
@@ -63,7 +63,7 @@ This flight was much longer, around four hours long compared to the hour and a h
 
 I used much of that time to watch a show on YouTube called "Battle for Dream Island Again", a show where everyday objects becomes personable and compete in various contests to win Dream Island. I'm watching the second season; the first season is called "Battle for Dream Island" (as you might have expected). My sister and a friend actually got me back into the series; I used to be obsessed during COVID but haven't been following ever since the fourth seasoned concluded. It has much quirky stuff and inside jokes within the series, highly recommend!
 
-As the plane was descending into Bozeman, the first thing I noticed whilst looking out of the window is that there was almost nothing to see, just flat ground upon miles and miles on end. I think this is pretty common among the Midwest.
+As the plane was descending into Bozeman, the first thing I noticed whilst looking out of the window was that there was almost nothing to see, just flat ground upon miles and miles on end. I think this is pretty common among the Midwest.
 
 ![alt text](image-13.png)
 
@@ -185,7 +185,7 @@ The first stop of the day was at the Norris Geyser Basin, the oldest of Yellowst
 
 ![alt text](image-56.png)
 
-There were two main Basins, the Back and the Porcelain; we only had time to see the Porcelain Basin as it is the shorter route and is barren of trees.
+There were two main Basins, the Back and the Porcelain; we only had time to see the Porcelain Basin as it was the shorter route and is barren of trees.
 
 ![alt text](image-46.png)
 
@@ -211,7 +211,7 @@ The tallest geyser in the world, the Steamboat Geyser, was just a few blocks dow
 
 ## Fountain Paint Pots
 
-Next stop is Fountain Paint Pots, a mud pot located in Lower Geyser Basin. It was a fourty minute drive from the Norris Geyser Basin, so not too far!
+Next stop was Fountain Paint Pots, a mud pot located in Lower Geyser Basin. It was a fourty minute drive from the Norris Geyser Basin, so not too far!
 
 ![alt text](image-62.png)
 
@@ -222,3 +222,59 @@ Next stop is Fountain Paint Pots, a mud pot located in Lower Geyser Basin. It wa
 Nothing too special see here, felt more like a intermission to the next stop: the Grand Prismatic Spring.
 
 ## Grand Prismatic Spring
+
+Located in the Midway Geyser Basin, the Grand Prismatic Spring is the largest hot spring in the Unites States. It was named by geologists in 1871, with the colors of the lake resembling of a prism.
+
+![alt text](image-68.png)
+*Excuse the bad photo quality*
+
+Something to note was that it was *exceptionally* windy here for some reason; I had to put my hat in my bag because I was not willing to take the risk it flying off my head. I even saw around three hats scattered around the boardwalks.
+
+The Excelsior Geyser came up first!
+
+![alt text](image-66.png)
+
+![alt text](image-74.png)
+
+![alt text](image-67.png)
+
+Then the path was essentially a clockwise loop, hitting the Grand Prismatic Spring, then the Opal Pool, then finally the Turquoise Pool.
+
+Here it is! It was also hot as the steam from the Spring blew onto me. It you notice in the background, there's a small section within the mountain you can climb onto and have an overlook view of the Spring. We will actually go there later.
+
+![alt text](image-70.png)
+
+![alt text](image-71.png)
+
+Opal Pool
+
+![alt text](image-72.png)
+
+Turquoise Pool
+![alt text](image-73.png)
+
+Definitely think that it would have been better if the loop was counter-clockwise, as it would have been better to show the smaller pools then the main attraction, but I digress.
+
+At this point, I was already feeling exhausted; I had walked around four miles over the course of around 5 hours and needed a break. I sat in the car and passed out for thirty minutes.
+
+Next up, we drove to the Grand Prismatic Overlook, only like a three minute drive as you might expect.
+
+![alt text](image-75.png)
+*"Rand Prismatic Overlook" :sob:*
+
+![alt text](image-76.png)
+*Excuse for the horrific quality, but I went on the "Grand Prismatic Overlook Trail", located on the top-left.*
+
+![alt text](image-79.png)
+
+![alt text](image-80.png)
+
+Thankfully this wasn't too long, only only spanning a mile, but the trail itself (the last 0.5 miles) was a strenuous uphill climb. I could feel my legs becoming tight as I climbed up, so I had to take a strech break.
+
+At the end, I'd say it was all worth it!
+
+![alt text](image-77.png)
+
+![alt text](image-78.png)
+
+After that, it was around 4:30PM and I wanted to go check in the hotel, I was feeling exhausted and needed a long break. 
