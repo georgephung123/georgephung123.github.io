@@ -317,3 +317,59 @@ On the way back, we got into a big traffic jam all because of this one bison!
 ![alt text](image-95.png)
 
 # Day 3: idk
+
+Good morning once again!
+
+I took a short walk around hotel; it was on the chillier side but it was very peaceful.
+
+![alt text](image-97.png)
+
+![alt text](image-98.png)
+
+For the first time, we decided to go out and grab breakfast. The place we went to was called "Falls Cafe", not too far from the hotel we were staying at.
+
+![alt text](blog2.png)
+
+Breakfast was pretty much the definiton of medicore; the cinnamon roll's outer layers was far too crispy, and the center was lukewarm at best. Probably was pre-cooked frozen food, not worth the 5 bucks.
+
+![alt text](image-99.png)
+
+The actual breakfast plate was also not great; the eggs tasted like nothing, the bacon tasted fine but was too tough, and the potatoes were actually the best performing out of all three food items. Still not worth it though.
+
+![alt text](image-100.png)
+
+Off we go to the Old Faithful!
+
+![alt text](image-101.png)
+
+![alt text](image-102.png)
+
+## Old Faithful
+
+The Old Faithful is known for its frequent and predictable eruptions, eurpting around every 90 minutes +- 12 minutes. We were fortunate to come right before it eurpted!
+
+![alt text](image-103.png)
+
+![alt text](image-104.png)
+
+## West Thumb Geyser Basin
+
+![alt text](image-105.png)
+
+![alt text](image-106.png)
+
+![alt text](image-107.png)
+
+## Lewis Falls
+
+We stumbled upon this randomly at a pullout, so we decided to explore it.
+
+![alt text](image-108.png)
+
+![alt text](image-109.png)
+
+![alt text](image-110.png)
+
+![alt text](image-111.png)
+
+![alt text](image-112.png)
