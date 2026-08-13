@@ -171,6 +171,8 @@ Good morning!
 
 The plan was to drive down to Norris Geyser, an hour from the North Entrance, then
 
+![alt text](image-82.png)
+
 ### work on later
 
 Yellowstone has these "pullouts" where it's like the scenic views on the highways; there are thousands of them all over the park and I certainly took advantage of some of them.
@@ -277,4 +279,41 @@ At the end, I'd say it was all worth it!
 
 ![alt text](image-78.png)
 
-After that, it was around 4:30PM and I wanted to go check in the hotel, I was feeling exhausted and needed a long break. 
+After that, it was around 3:30PM and I wanted to go check in the hotel, I was feeling exhausted and needed a long break. The hotel was an hour away, we had to drive back North then East.
+
+The hotel, the Canyon Lodge & Cabins, resembled much more of a cabin compared to your traditional hotel, which is a really nice touch. There was a chess board on every floor, the interior had a nice beige color and overall felt like a cozy cabin.
+
+![alt text](image-83.png)
+
+![alt text](image-96.png)
+
+![alt text](image-84.png)
+
+I took an hour long nap at the hotel, then we set out for Lookout Point, the final stop for the day.
+
+![alt text](image-87.png)
+
+![alt text](image-85.png)
+
+![alt text](image-88.png)
+
+![alt text](image-89.png)
+
+![alt text](image-90.png)
+
+![alt text](image-91.png)
+
+![alt text](image-86.png)
+
+On the way back, we got into a big traffic jam all because of this one bison!
+
+![alt text](image-92.png)
+*A little too close for comfort*
+
+![alt text](image-93.png)
+
+![alt text](image-94.png)
+
+![alt text](image-95.png)
+
+# Day 3: idk
