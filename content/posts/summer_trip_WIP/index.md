@@ -318,6 +318,7 @@ On the way back, we got into a big traffic jam all because of this one bison!
 
 # Day 3: idk
 
+## add map
 Good morning once again!
 
 I took a short walk around hotel; it was on the chillier side but it was very peaceful.
@@ -373,3 +374,250 @@ We stumbled upon this randomly at a pullout, so we decided to explore it.
 ![alt text](image-111.png)
 
 ![alt text](image-112.png)
+
+After a whole bunch of Yellowstone, we went further South. We soon entered the Grand Teton National Park, just only ten miles south of Yellowstone.
+
+## Grand Teton National Park
+
+We found a nice place called Jackson Lake Lodge (not staying there for the night) to stop by and look at the views.
+
+![alt text](image-114.png)
+
+![alt text](image-113.png)
+
+I also found this trail that I hiked for around an hour.
+
+![alt text](image-115.png)
+
+![alt text](image-116.png)
+
+A bit of a side tangent, but I've been thinking about this interesting idea for a while:
+
+What I find interesting is for sentences with the word "but" such as
+
+- I like you, but you can be annoying.
+- I think you did fantastic, but the phrasing can be better.
+- This book is well-written, but is not my cup of tea.
+
+The phrases preceding the word "but" is basically negtated and I only really feel the negativity by the end. We were taught to give people praise first to "cushion" the criticism that follows, but I've come to find out that it doesn't really work that way at all for me. 
+
+So, how to fix it? Simple, just swap the two phrases around.
+
+- You can be annoying, but I like you.
+- The phrasing can be better, but I think you did fantastic.
+- This is not my cup of tea, but this book is well-written.
+
+It's quite amazing how the swappage of two phrases can change the entire takeaway of a sentence. 
+
+Now of course, it depends on *what* you want your takeaway to be. For example, if you believe that giving critism outweighs the positives, then putting the critism after the positives would make more sense. The inverse can be said the same likewise.
+
+There are exceptions to this of course!
+
+One is:
+
+- You made several errors in this paper, the formatting is wrong, the abstract is extremely vague, and I couldn't comprehend the main idea, but I like it!
+
+Despite the praise coming after the criticisms, I would be surprised if anyone felt good after hearing that sentence; the *degree* of negativity heavily outweighs the positive portion of the sentence, so it's logical to feel negtative after the sentence, no matter where it's placed at. 
+
+This then brings up another question, just *how* much negativity can I put before it can get "negtated", and ultimately I think it varies from person-to-person.
+
+Another exception is:
+
+- I would love to come to the party with you, but I am tired.
+
+Makes sense so far, you couldn't come to the party because you were tired.
+
+Swap the phrases around:
+
+- I am tired, but I would love to come to the party with you.
+
+Now the whole message of the sentence has changed! Even when you're tired, you're still willing to come to the party.
+
+There are much more nuances and exceptions to this concept, but regardless, the fundemental concepts are very simple!
+
+
+![alt text](image-117.png)
+
+![alt text](image-118.png)
+
+Overall, the hike was really light but the views were magnificent.
+
+The lodge had some stores and a resturant inside!
+
+![alt text](image-119.png)
+
+![alt text](image-120.png)
+
+![alt text](image-121.png)
+
+The resturant was called "The Blue Heron Lounge"; it was a seat-yourself restruant with outdoor seating, but unfortunately there wasn't any more empty seats outside :(
+
+![alt text](image-122.png)
+
+![alt text](blog3.png)
+
+![alt text](image-123.png)
+
+Here is the menu if you were curious:
+
+![alt text](image-124.png)
+
+![alt text](image-125.png)
+
+We ordered three items: the Colorado Chicken & Chile Nachos, the Yard Bird, and the Blue Heron Burger.
+
+I didn't taste too much of the green chile queso, and the avacado crema added zero flavor to the nachos. But the chicken was tender and full of flavor, the nachos were nicely made, and the peppers gave a nice kick but definitely could have added more to it.
+
+![alt text](image-126.png)
+
+With the main entrées, it comes with a complimentary side of potato chips or a salad; I chose the chips while my sister chose the salad.
+
+![alt text](image-127.png)
+
+Perhaps I only had horrific chicken sandwiches in the past, but they were always dry when I ordered them. Not this time, it was one of the most tender chicken sandwiches I've had in recent times, even after it was left out for 20 minutes. Seasoned well too!
+
+However, I cannot say the chips. It was *far* too salty, and it even tasted somewhat sour. Cannot recommend getting the chips as your side.
+
+
+![alt text](image-134.png)
+
+(From my sister)
+
+The burger was the real show stopper. The onion bacon jam was golden mixed in with the other classic burger toppings, though was messy and the sauce spilt out. Pretty awesome! It was a stark contrast to the burger my sister had in Charlotte, where it was a glorified Big Mac compared to here.
+
+Salad was fine, just a generic salad.
+
+After all of that, we decided to go back to the hotel. But first, here's some sunset pictures!
+
+![alt text](image-128.png)
+
+![alt text](image-129.png)
+
+![alt text](image-130.png)
+
+![alt text](image-131.png)
+
+![alt text](image-132.png)
+
+The hotel is called the Grand Targhee Resort, right on Freds Mountain. It definitely shines much more in the winter than the summer, but there are still some cool things to do there!
+
+![alt text](image-133.png)
+
+# Day 4: idk
+
+## add trajcetory
+Good morning once again!
+
+![alt text](image-135.png)
+
+![alt text](image-136.png)
+
+This is the first hotel that actually had a gym, so I took advantage of it. Funnily enough, it was in a seperate building, inside the outdoor pool. I didn't know that beforehand, so I spent a solid 5 minutes wandering around the hotel.
+
+It was right before seven when I entered into the gym, and there was no one inside! :D
+
+![alt text](image-138.png)
+
+![alt text](image-139.png)
+
+I only really do cardio, so I used the treadmill.
+
+![alt text](image-140.png)
+
+Not too bad!
+
+Let's head to Jenny Lake, a popular attraction in Grand Teton National Park.
+
+![alt text](image-141.png)
+
+![alt text](image-142.png)
+
+![alt text](image-143.png)
+
+![alt text](image-144.png)
+
+## Jenny Lake
+
+It was over a two hour drive, as we had to drive aroudn the mountain, which took much more time.
+
+![alt text](image-145.png)
+
+We can either do a 3.5 mile walk around the lake, or we can pay 15 dollars a person to go on a ferry that will take us to the other side. I think you know what we picked. :3
+
+![alt text](image-146.png)
+
+![alt text](image-147.png)
+
+![alt text](image-148.png)
+
+![alt text](image-149.png)
+
+On the other side lays the Cascade Canyon, filled with many trails and some waterfalls!
+
+![alt text](image-150.png)
+
+![alt text](image-151.png)
+
+![alt text](image-152.png)
+*Taken from Inspiration Point*
+
+![alt text](image-153.png)
+
+![alt text](image-154.png)
+*The Hidden Falls*
+
+![alt text](image-155.png)
+
+![alt text](image-156.png)
+
+It was definitely not fun waiting for the ferry to come back and pick us up; the high temperatures and the humidity made me sweat a whole bunch.
+
+After that, we wanted to explore a town, and the closest one is Jackson, a thirty minute drive South.
+
+But of course, we had to take more scenic pictures!
+
+![alt text](image-157.png)
+
+![alt text](image-158.png)
+
+## Jackson, Wyoming
+
+Welcome to Jackson! A popular tourist attraction due to its close location to ski resorts and national parks, it's often called "Jackson Hole", the name of the valley it is located in.
+
+![alt text](image-159.png)
+
+![alt text](image-160.png)
+
+![alt text](blog4.png)
+*The George Washington Memorial Park*
+
+There was actually a street performer who was playing the violin in the park! I stopped and listen because I understood how challenging learning violin as I played violin for six years myself. I even recognized one of the songs they were playing. If you were curious, it's named "Hunters' Chorus", part of the Suzuki Book 2 repertoire.
+
+![alt text](image-162.png)
+
+![alt text](image-163.png)
+
+My mom and I basically walked around Jackson in the evening sun, exploring places while talking about life to each other.
+
+There was actually a street performance here, too bad we came near the end of it so we didn't really understand what was going on.
+
+![alt text](image-164.png)
+
+![alt text](image-165.png)
+
+Ice cream time!
+
+![alt text](image-166.png)
+
+I ordered the English Toffee ice cream on a waffle cone! If you do not know, English Toffee ice cream is a caramel ice cream base with bits of English Toffee. It wasn't cheap, being a whopping ten bucks but the scoops was HUGE, being the size of a fist.
+
+It was extremely good and unbelievably sweet; you gotta treat yourself every once in a while!
+
+![alt text](image-167.png)
+
+![alt text](image-168.png)
+
+The sun was already beginning to set, so we drove back to the hotel we stayed at last night, the Grand Targhee Resort.
+
+# Day 5: idk
+## put trajetory
