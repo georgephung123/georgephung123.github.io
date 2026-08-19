@@ -1,16 +1,17 @@
 ---
-date: 2026-08-01T11:08:15-04:00
-description: "place holder, remember to change file title too"
-# featured_image: "/images/pathway.png"
-title: "summer trip WIP"
+date: 2026-08-18T11:08:15-04:00
+description: "This was a 6 day long trip to Yellowstone and various places, visiting three states along the way."
+featured_image: "/images/mini_cable_car.png"
+title: "My summer trip this year!"
 categories: ["Travel"]
-Draft: True
+Draft: False
 ---
 
-# Day One: Travelling there.
+# Day 1
 
-## TODO: provide more context
-My flight was scheduled to depart at six in the morning from Richmond to Atlanta; so I had to wake up at around three, which is already not ideal as I only had four hours of sleep last night.
+## Commuting to Bozeman
+
+My flight was scheduled to depart at six in the morning from Richmond to Atlanta; so I had to wake up at around three, which is already not ideal as I only got four hours of sleep that night.
 
 I actually drove for the first time on the interstate, it saved 15 minutes (the drive was 30 minutes) to the airport. Going on the interstate usually scares me, entering and exiting from the runway is always a risk along with the high speed limits. In this case, it was around 3:40AM and there were barely any cars around; it was a genuine vibe to drive this early in the morning.
 
@@ -71,6 +72,8 @@ As the plane was descending into Bozeman, the first thing I noticed whilst looki
 
 Welcome to Bozeman!
 
+## Hello Bozeman!
+
 ![alt text](image-15.png)
 
 The rental car was waiting for us; it was a Jeep (of some sort). Something to note that most of the cars you see in this enviroment are Jeeps, pickup trucks, etc. This is mainly because that since there is almost nothing, the roads have higher speed limits, which means that you need a more powerful car in order to navigate.
@@ -111,6 +114,7 @@ I took a small break in the hotel room, as 14 hours of travelling made me just a
 
 Next up, my mother and I drove around a bit around Yellowstone to get a glimpse of what it will be like in the upcoming days.
 
+## First taste of Yellowstone 
 This is the Roosevelt Arch!
 
 ![alt text](image-24.png)
@@ -141,7 +145,6 @@ But we made it there eventually!
 ![alt text](image-31.png)
 *A rather interesting figure*
 
-![alt text](image-32.png)
 
 ![alt text](image-33.png)
 
@@ -163,17 +166,15 @@ It was a pretty nice preview of what's going to be in Yellowstone in the upcomin
 
 We went back to the hotel, and I worked on my blog then went to sleep. The internet was a little slow at times, but it didn't affect working on this blog post too much.
 
-# Day 2: idk work on this later
+# Day 2
 
 Good morning!
 
 ![alt text](image-43.png)
 
-The plan was to drive down to Norris Geyser, an hour from the North Entrance, then
+Here is the travel plan for today!
 
 ![alt text](image-82.png)
-
-### work on later
 
 Yellowstone has these "pullouts" where it's like the scenic views on the highways; there are thousands of them all over the park and I certainly took advantage of some of them.
 
@@ -269,7 +270,6 @@ Next up, we drove to the Grand Prismatic Overlook, only like a three minute driv
 
 ![alt text](image-79.png)
 
-![alt text](image-80.png)
 
 Thankfully this wasn't too long, only only spanning a mile, but the trail itself (the last 0.5 miles) was a strenuous uphill climb. I could feel my legs becoming tight as I climbed up, so I had to take a strech break.
 
@@ -316,16 +316,18 @@ On the way back, we got into a big traffic jam all because of this one bison!
 
 ![alt text](image-95.png)
 
-# Day 3: idk
+# Day 3
 
-## add map
-Good morning once again!
+
+Good morning again, here is the travel map for today!
+
+![alt text](image-224.png)
 
 I took a short walk around hotel; it was on the chillier side but it was very peaceful.
 
 ![alt text](image-97.png)
 
-![alt text](image-98.png)
+![alt text](image-212.png)
 
 For the first time, we decided to go out and grab breakfast. The place we went to was called "Falls Cafe", not too far from the hotel we were staying at.
 
@@ -343,7 +345,6 @@ Off we go to the Old Faithful!
 
 ![alt text](image-101.png)
 
-![alt text](image-102.png)
 
 ## Old Faithful
 
@@ -373,7 +374,6 @@ We stumbled upon this randomly at a pullout, so we decided to explore it.
 
 ![alt text](image-111.png)
 
-![alt text](image-112.png)
 
 After a whole bunch of Yellowstone, we went further South. We soon entered the Grand Teton National Park, just only ten miles south of Yellowstone.
 
@@ -503,10 +503,11 @@ The hotel is called the Grand Targhee Resort, right on Freds Mountain. It defini
 
 ![alt text](image-133.png)
 
-# Day 4: idk
+# Day 4
 
-## add trajcetory
-Good morning once again!
+Good morning once again, here is the trajectory for today!
+
+![alt text](image-222.png)
 
 ![alt text](image-135.png)
 
@@ -516,7 +517,7 @@ This is the first hotel that actually had a gym, so I took advantage of it. Funn
 
 It was right before seven when I entered into the gym, and there was no one inside! :D
 
-![alt text](image-138.png)
+![alt text](image-213.png)
 
 ![alt text](image-139.png)
 
@@ -534,7 +535,6 @@ Let's head to Jenny Lake, a popular attraction in Grand Teton National Park.
 
 ![alt text](image-143.png)
 
-![alt text](image-144.png)
 
 ## Jenny Lake
 
@@ -578,7 +578,7 @@ But of course, we had to take more scenic pictures!
 
 ![alt text](image-157.png)
 
-![alt text](image-158.png)
+![alt text](image-214.png)
 
 ## Jackson, Wyoming
 
@@ -595,13 +595,12 @@ There was actually a street performer who was playing the violin in the park! I 
 
 ![alt text](image-162.png)
 
-![alt text](image-163.png)
 
 My mom and I basically walked around Jackson in the evening sun, exploring places while talking about life to each other.
 
 There was actually a street performance here, too bad we came near the end of it so we didn't really understand what was going on.
 
-![alt text](image-164.png)
+![alt text](image-215.png)
 
 ![alt text](image-165.png)
 
@@ -617,7 +616,148 @@ It was extremely good and unbelievably sweet; you gotta treat yourself every onc
 
 ![alt text](image-168.png)
 
-The sun was already beginning to set, so we drove back to the hotel we stayed at last night, the Grand Targhee Resort.
+![alt text](image-216.png)
 
-# Day 5: idk
-## put trajetory
+The sun was already beginning to set, so we drove back to the hotel we stayed at last night, the Grand Targhee Resort. 
+
+# Day 5
+
+Good morning! This is the final full day of travelling.
+
+Here is the plan:
+
+![alt text](image-188.png)
+
+![alt text](image-182.png)
+
+![alt text](image-183.png)
+
+![alt text](image-184.png)
+
+The day started off by going on the lifts that the Resort provided; there were four lifts near the resort and we went on the Dreamcatcher Lift, the longest out of all of them.
+
+Tickets were not exactly cheap, costing around 30 dollars per person. But, you can go on the lift three times within a seven day period.
+
+It took us to Fred's Mountain!
+
+## Fred's Mountain
+
+![alt text](image-169.png)
+
+![alt text](image-170.png)
+
+![alt text](image-172.png)
+
+![alt text](image-173.png)
+
+Down the mountain were both hiking and biking trails; it must be a solid 4-5 miles if we wanted to descend downwards by ourselves.
+
+![alt text](image-217.png)
+
+Thankfully, the summit was not too far from the lift, a solid 5 minute hike took us up there.
+
+![alt text](image-174.png)
+
+![alt text](image-175.png)
+
+![alt text](image-179.png)
+
+There honestly was not that much to do near the summit, we were not equipped for biking nor long-distance hiking so we went down after spending an hour or so up there.
+
+![alt text](image-177.png)
+
+![alt text](image-180.png)
+
+## Upper Mesa Falls
+
+This was around an hour and a half drive to Northwest, back into Idaho!
+
+What's interesting about this one is that you actually have to pay using paper and pen. You would grab a form, write down your license plate, date visited, etc. then you have to attach money or a check to it, very old schoolesque.
+
+![alt text](image-185.png)
+
+![alt text](image-218.png)
+
+![alt text](image-219.png)
+
+![alt text](image-220.png)
+
+After the quick stop there, theres a town thats named "West Yellowstone" (you might guess where Yellowstone is located at), with an elevation of 6,667 feet!
+
+## West Yellowstone
+
+We checked into our hotel, the Brandin' Iron Inn. It felt more like a motel to me, but we ball!
+
+![alt text](image-189.png)
+
+![alt text](image-221.png)
+
+Heres a town walk!
+
+![alt text](image-194.png)
+
+![alt text](image-191.png)
+
+![alt text](image-195.png)
+
+What's funny is that much of these merchandise stores has AI generated merch of Yellowstone; inside the Yellowstone National Park you'll essentially find zero AI generated merch there, which is expected as it's quite expensive inside.
+
+![alt text](image-192.png)
+
+![alt text](image-193.png)
+
+# Day 6: The final day.
+
+Good morning, this is the final day. My goodness, I couldn't believe it was the last day already.
+
+Here is the shorter travel plan for today:
+
+![alt text](image-205.png)
+
+![alt text](image-196.png)
+
+This is the first hotel that had free breakfast, and it was extremely mediocre (and looks like it too).
+
+![alt text](image-197.png)
+
+![alt text](image-199.png)
+
+## Old Faithful Part 2
+
+We headed back to Old Faithful, we did not go through the Biscuit Basin Trail, which had some more geysers.
+
+![alt text](image-198.png)
+
+The Morning Glory Pool! There was actually a sign that said to not throw objects into the geyser, as people has done it in the past which diminished the colors.
+
+![alt text](image-200.png)
+
+It was around a one mile walk to the pool, so we turned around and went through a different path.
+
+![alt text](image-201.png)
+
+![alt text](image-211.png)
+
+![alt text](image-203.png)
+
+![alt text](image-206.png)
+
+After all of that, it was time to go to the airport. :(
+
+## Leaving :(
+
+It was actually the same airport, right back at Bozeman. It would have much more sense to go to Salt Lake City, but tickets were likely to be more expensive along with some extra logistical with the rental car.
+
+![alt text](image-204.png)
+
+![alt text](image-207.png)
+
+Unforunately, we had *two* layovers this time, stopping at four different airports.
+
+![alt text](image-208.png)
+
+![alt text](image-209.png)
+
+![alt text](image-210.png)
+
+That's all! :3
