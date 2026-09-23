@@ -25,7 +25,7 @@ Some interesting things I did:
 
 In my free time, I like to:
 - Play chess - Peaked around 1800 at bullet on chess.com
-- Run - My 5k PR is 31:55
+- Run - My 5k PR is 30:10
 - Workout - I mainly do low-impact workouts
 - Speedrun Celeste - My any% PB is around 32 minutes
 
